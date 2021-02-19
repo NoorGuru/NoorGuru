@@ -10,7 +10,7 @@ Hi, I'm **Noor**, a Software Enginner & Tech Instructor. You are inside my cyber
 {{< ticks >}}
 * Video Courses
     * Python Course _**Soon**_
-    * C++ Course] _**Soon**_ 
+    * C++ Course _**Soon**_ 
 * Articles _**Soon**_
 {{< /ticks >}}
 
