@@ -5,6 +5,10 @@ title: "noor.guru"
 
 Hi, I'm **Noor**, a Software Enginner & Tech Instructor. You are inside my cyber home, enjoy your time.
 
+{{< cmd >}}
+BETA version!
+{{</ cmd >}}
+
 {{< line >}}
 
 {{< ticks >}}

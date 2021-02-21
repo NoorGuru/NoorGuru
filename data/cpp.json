@@ -1,0 +1,25 @@
+{
+    "language": "Arabic",
+    "title": "C++ for Begginers in Arabic Course",
+    "topics": [
+        "C++",
+        "Video"
+    ],
+    "videos": [
+        {
+            "en_title": "Your First Program in C++",
+            "ar_title": "الصيغة العامة لكتابة برنامج بلغة سي بلس بلس",
+            "date": "2014-03-10",
+            "slug": "first-program-in-cpp",
+            "youtube": "m1iSo1tJ7TQ"
+        },
+        {
+            "en_title": "Your First Program in C++ - Alternative Ways",
+            "ar_title": "صيغ أخرى (بديلة) لكتابة برنامج بلغة سي بلس بلس",
+            "date": "2014-03-12",
+            "slug": "first-program-in-cpp-extra",
+            "youtube": "jttPyDRARA8"
+        }
+        
+    ]
+}

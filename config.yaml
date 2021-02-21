@@ -8,10 +8,12 @@ theme: cupper-hugo-theme
 # enableGitInfo: true
 
 taxonomies:
-  topic: topics
+  tag: tags
+  course: courses
 
 permalinks:
-  post: /post/:filename/
+  post: /post/:slug
+  cpp:  /:sections/:slug
 
 imaging:
   quality: 99
@@ -19,9 +21,9 @@ imaging:
 params:
   # description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
   # homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: 2014-2021 | 'Mohammad Noor' AbuKhleif [@moh_noor94](https://twitter.com/moh_noor94)
+  # footer: 2014-2021 | 'Mohammad Noor' AbuKhleif [@moh_noor94](https://twitter.com/moh_noor94)
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2021
+  dateFormat: Jan 2, 2006
   # codePenUser: someUser
   katex: true
   hideHeaderLinks: false
@@ -41,9 +43,12 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Topics
-      url: /topics/
+    - name: Tags
+      url: /tags/
       weight: 3
+    - name: C++ Course
+      url: /cpp
+      weight: 4
     # - name: About
     #   url: /about/
     #   weight: 4
