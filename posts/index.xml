@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on noor.guru</title>
+    <link>https://www.noor.guru/posts/</link>
+    <description>Recent content in Posts on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scala and Functional Programming, Why?</title>
+      <link>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</guid>
+      <description>Scala and Functional Programming, Why? What is Scala?  “Scala combines object-oriented and functional programming in one concise, high-level language. Scala’s static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries”.
+ This is how Scala official website introduces the language to the world. In this blog, I will try to make this introduction some way simpler with a taste of real Scala examples, note that I’m assuming a general knowledge of other object-oriented languages like Java or C# but no functional programming knowledge is ok.</description>
+    </item>
+    
+    <item>
+      <title>1-2 Your First Program in C&#43;&#43; - Alternative Ways</title>
+      <link>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</guid>
+      <description>1-2 Your First Program - Alternative Ways | صيغ أخرى (بديلة) لكتابة برنامج بلغة سي بلس بلس  في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس.
+  In this lecture, we will learn some alternative ways t write our C++ programs.
+   </description>
+    </item>
+    
+    <item>
+      <title>1-1 Your First Program in C&#43;&#43;</title>
+      <link>https://www.noor.guru/posts/cpp/first-program-in-cpp/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp/</guid>
+      <description>1-1 Your First Program in C++ | الصيغة العامة لكتابة برنامج بلغة سي بلس بلس  في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج.
+  In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.
+   </description>
+    </item>
+    
+  </channel>
+</rss>

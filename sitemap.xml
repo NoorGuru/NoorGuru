@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.noor.guru/scala/why-scala-and-functional-programming/</loc>
+    <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/categories/</loc>
@@ -20,46 +20,42 @@
     <loc>https://www.noor.guru/tags/oop/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/scala/</loc>
+    <loc>https://www.noor.guru/posts/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/categories/scala/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/scala/</loc>
-    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/scala/</loc>
-    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/</loc>
+    <loc>https://www.noor.guru/tags/scala-language/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/c&#43;&#43;/</loc>
+    <loc>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/cplusplus/</loc>
+    <loc>https://www.noor.guru/categories/c&#43;&#43;/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/cpp/</loc>
+    <loc>https://www.noor.guru/tags/c&#43;&#43;-course/</loc>
+    <lastmod>2014-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/c&#43;&#43;-lecture/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/video/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/cpp/first-program-in-cpp-extra/</loc>
-    <lastmod>2014-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/cpp/first-program-in-cpp/</loc>
+    <loc>https://www.noor.guru/posts/cpp/first-program-in-cpp/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/about/</loc>
   </url><url>
-    <loc>https://www.noor.guru/archives/</loc>
+    <loc>https://www.noor.guru/archive/</loc>
   </url><url>
     <loc>https://www.noor.guru/search/</loc>
+  </url><url>
+    <loc>https://www.noor.guru/series/</loc>
   </url>
 </urlset>
