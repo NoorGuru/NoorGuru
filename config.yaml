@@ -75,7 +75,7 @@ params:
   # images: ["papermod-cover.png"]
 
   profileMode:
-    enabled: false
+    enabled: true
     title: noor.guru
     imageUrl: "images/logo.svg"
     imageTitle: noor.guru logo
