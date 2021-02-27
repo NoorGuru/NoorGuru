@@ -1,53 +1,198 @@
-baseURL: https://www.noor.guru
-languageCode: en-us
-defaultContentLanguage: en
+baseURL: "https://www.noor.guru"
 title: noor.guru
-theme: cupper-hugo-theme
-# googleAnalytics: UA-123456789-1
-# disqusShortname: yourdiscussshortname
-# enableGitInfo: true
+paginate: 5
+theme: PaperMod
 
-taxonomies:
-  tag: tags
-  course: courses
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
-permalinks:
-  post: /:sections/:slug
+# googleAnalytics: UA-123-45
 
-imaging:
-  quality: 99
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Java
+          url: categories/java/
+          weight: 1
+        - name: Scala
+          url: categories/scala/
+          weight: 2
+        - name: Python
+          url: categories/python/
+          weight: 3
+        - name: C++
+          url: categories/cplusplus/
+          weight: 4
+#        - name: Blog
+#          url: posts
+#          weight: 5
+#        - name: Categories
+#          url: categories
+#          weight: 6
+        - name: Tags
+          url: tags
+          weight: 7
+        - name: Archive
+          url: archives
+          weight: 8
+        - name: Search
+          url: search
+          weight: 9
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-  # description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  # homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  # footer: 2014-2021 | 'Mohammad Noor' AbuKhleif [@moh_noor94](https://twitter.com/moh_noor94)
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
-  # codePenUser: someUser
-  katex: true
-  hideHeaderLinks: false
-  search: true
-  showThemeSwitcher: false
-  moveFooterToHeader: false
-  customCss:
-    - css/nav.css
-  # customJs:
-    # - js/custom_01.js
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Programming and Technology Guru!"
+  author: Noor
+  # author: ["Me", "You"] # multiple authors
 
-menu:
-  nav:
-    - name: Home
-      url: /
-      weight: 1
-    - name: Blog
-      url: /post/
-      weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
-    - name: C++ Course
-      url: /cpp
-      weight: 4
-    # - name: About
-    #   url: /about/
-    #   weight: 5
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowToc: true
+  TocOpen: true
+#  comments: true
+  # images: ["papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: noor.guru
+    imageUrl: "images/logo.svg"
+    imageTitle: noor.guru logo
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: Java
+        url: categories/java
+      - name: Scala
+        url: categories/scala
+      - name: Python
+        url: categories/python
+      - name: C++
+        url: categories/cplusplus
+#      - name: Blog
+#        url: posts
+      - name: Archive
+        url: archives
+#      - name: Categories
+#        url: categories
+      - name: Tags
+        url: tags
+      - name: Search
+        url: search
+
+
+  homeInfoParams:
+    Title: "noor.guru"
+    Content: >
+      Welcome to my cyber home.
+
+
+      Here, I'm sharing my info so it may help somebody else out there (like you).
+
+
+      Find me on:
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/mohnoor94"
+    - name: linkedin
+      url: "https://linkedin.com/in/mohnoor94"
+    - name: youtube
+      url: "https://www.youtube.com/c/CodeWithNoor"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/2847543/mohammad-noor"
+    - name: twitter
+      url: "https://twitter.com/moh_noor94"
+#    - name: KoFi
+#      url: "https://ko-fi.com/adityatelange"
+#    - name: RsS
+#      url: "index.xml"
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-XHXB3G7XDR"
+
+  assets:
+     favicon: "favicon.ico"
+     favicon16x16: "favicon-16x16.png"
+     favicon32x32: "favicon-32x32.png"
+     apple_touch_icon: "apple-touch-icon.png"
+     safari_pinned_tab: "safari-pinned-tab.svg"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  fuseOpts:
+       isCaseSensitive: false
+       shouldSort: true
+       location: 0
+       distance: 1000
+       threshold: 0.4
+       minMatchCharLength: 0
+       keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+#markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
