@@ -95,7 +95,7 @@ object MainScala extends App {
 }
 ``` 
 
-### 4. Concise Code
+### 3. Concise Code
 That’s actually another point to mention for Java developers, Scala will give you a more concise and short version of your code (some people will refer to Scala as a better Java!), let’s take another example of defining a simple class with basic methods in both languages:
 
 #### **Java** Class:
