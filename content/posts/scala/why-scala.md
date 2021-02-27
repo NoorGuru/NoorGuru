@@ -4,9 +4,8 @@ date: 2018-04-21
 weight: 1
 slug: "why-scala-and-functional-programming"
 aliases: ["/scala/1"]
-tags: ["scala", "functional programming", "FP", "OOP"]
+tags: ["Scala Language", "Functional Programming", "FP", "OOP"]
 categories: ["Scala"]
-series: ["Scala"]
 author: "Noor"
 draft: false
 ---

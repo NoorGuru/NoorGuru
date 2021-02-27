@@ -31,19 +31,19 @@ languages:
           url: categories/python/
           weight: 3
         - name: C++
-          url: categories/cplusplus/
+          url: categories/c++/
           weight: 4
 #        - name: Blog
 #          url: posts
 #          weight: 5
-#        - name: Categories
-#          url: categories
-#          weight: 6
+        - name: Categories
+          url: categories
+          weight: 6
         - name: Tags
           url: tags
           weight: 7
         - name: Archive
-          url: archives
+          url: archive
           weight: 8
         - name: Search
           url: search
@@ -75,7 +75,7 @@ params:
   # images: ["papermod-cover.png"]
 
   profileMode:
-    enabled: true
+    enabled: false
     title: noor.guru
     imageUrl: "images/logo.svg"
     imageTitle: noor.guru logo
@@ -89,11 +89,11 @@ params:
       - name: Python
         url: categories/python
       - name: C++
-        url: categories/cplusplus
+        url: categories/c++
 #      - name: Blog
 #        url: posts
       - name: Archive
-        url: archives
+        url: archive
 #      - name: Categories
 #        url: categories
       - name: Tags
