@@ -21,15 +21,15 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Java
-          url: categories/java/
-          weight: 1
+#        - name: Java
+#          url: categories/java/
+#          weight: 1
         - name: Scala
           url: categories/scala/
           weight: 2
-        - name: Python
-          url: categories/python/
-          weight: 3
+#        - name: Python
+#          url: categories/python/
+#          weight: 3
         - name: C++
           url: categories/c++/
           weight: 4
