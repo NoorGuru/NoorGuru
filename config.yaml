@@ -64,6 +64,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
+  ShowVerticalShareButtons: true
   ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true

@@ -1,3 +1,23 @@
+/* all */
 .main {
     max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+
+/* single post */
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* vertical share icons */
+.vertical {
+    flex-direction: column;
+    position: fixed;
+    bottom: 50%;
+    transform: translateY(50%);
+    margin-left: 30px;
+    background: none;
+    border: none;
 }
