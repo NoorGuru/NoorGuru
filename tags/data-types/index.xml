@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Types on noor.guru</title>
+    <link>https://www.noor.guru/tags/data-types/</link>
+    <description>Recent content in Data Types on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Mar 2014 23:59:59 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/data-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-3 Data Types in C&#43;&#43; | أنواع البيانات في لغة سي بلس بلس</title>
+      <link>https://www.noor.guru/posts/cpp/data-types-cpp/</link>
+      <pubDate>Wed, 12 Mar 2014 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/data-types-cpp/</guid>
+      <description> في هذا الدرس سنتعرّف على أنواع البيانات المختلفة في لغة سي بلس بلس مثل الأرقام الصحيحة، الحروف، القيم المنطقية، الأعداد العشريّة، وغيرها. بالإضافة إلى تعلّم كيفيّة استخدام هذه الأنواع.
+ In this lecture, we will learn about int, char, bool, double float and other data types, while learning how and why to use them.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

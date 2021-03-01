@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudo Code on noor.guru</title>
+    <link>https://www.noor.guru/tags/pseudo-code/</link>
+    <description>Recent content in Pseudo Code on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Mar 2015 23:59:59 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/pseudo-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matlab - Programming with Matlab, Selection, Loops and Debug (in Arabic)</title>
+      <link>https://www.noor.guru/posts/matlab/programming-selection-loops-debug-matlab/</link>
+      <pubDate>Sat, 28 Mar 2015 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/matlab/programming-selection-loops-debug-matlab/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

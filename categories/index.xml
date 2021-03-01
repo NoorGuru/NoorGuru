@@ -5,7 +5,16 @@
     <link>https://www.noor.guru/categories/</link>
     <description>Recent content in Categories on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://www.noor.guru/categories/c&#43;&#43;/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Scala</title>
       <link>https://www.noor.guru/categories/scala/</link>
@@ -16,11 +25,11 @@
     </item>
     
     <item>
-      <title>C&#43;&#43;</title>
-      <link>https://www.noor.guru/categories/c&#43;&#43;/</link>
-      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Matlab</title>
+      <link>https://www.noor.guru/categories/matlab/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/categories/c&#43;&#43;/</guid>
+      <guid>https://www.noor.guru/categories/matlab/</guid>
       <description></description>
     </item>
     

@@ -4,6 +4,25 @@
     <title>Series on noor.guru</title>
     <link>https://www.noor.guru/series/</link>
     <description>Recent content in Series on noor.guru</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.noor.guru/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cpp_beginners</title>
+      <link>https://www.noor.guru/series/cpp_beginners/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/series/cpp_beginners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab_lectures</title>
+      <link>https://www.noor.guru/series/matlab_lectures/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/series/matlab_lectures/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
