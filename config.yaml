@@ -110,6 +110,13 @@ params:
 
   homeInfoParams:
     Title: "noor.guru"
+    buttons:
+      - name: Scala
+        url: categories/scala
+      - name: C++
+        url: categories/c++
+      - name: Matlab
+        url: categories/matlab
     Content: >
       Welcome to my cyber home.
 
