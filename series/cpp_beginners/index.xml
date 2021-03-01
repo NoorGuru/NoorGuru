@@ -5,7 +5,18 @@
     <link>https://www.noor.guru/series/cpp_beginners/</link>
     <description>Recent content in cpp_beginners on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/cpp_beginners/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/cpp_beginners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-7 Operator Precedence and Arithmetic Expressions | أولويات العمليات والتعابير الحسابية</title>
+      <link>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
+      <description> في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة
+ In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
+  </description>
+    </item>
+    
     <item>
       <title>1-6 Arithmetic Operators in C&#43;&#43; | المعاملات والعمليّات الحسابيّة في لغة سي بلس بلس</title>
       <link>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</link>

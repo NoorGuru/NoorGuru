@@ -5,7 +5,7 @@
     <link>https://www.noor.guru/posts/</link>
     <description>Recent content in Posts on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scala and Functional Programming, Why?</title>
       <link>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</link>
@@ -14,6 +14,17 @@
       <guid>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</guid>
       <description>What is Scala?  “Scala combines object-oriented and functional programming in one concise, high-level language. Scala’s static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries”.
  This is how Scala official website introduces the language to the world. In this blog, I will try to make this introduction some way simpler with a taste of real Scala examples, note that I’m assuming a general knowledge of other object-oriented languages like Java or C# but no functional programming knowledge is ok.</description>
+    </item>
+    
+    <item>
+      <title>1-7 Operator Precedence and Arithmetic Expressions | أولويات العمليات والتعابير الحسابية</title>
+      <link>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
+      <description> في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة
+ In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
+  </description>
     </item>
     
     <item>
