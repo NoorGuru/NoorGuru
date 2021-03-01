@@ -1,3 +1,40 @@
 .main {
     max-width: calc(var(--nav-width) + var(--gap) * 2);
 }
+
+/*footer*/
+.footer-nav {
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: var(--header-height)
+}
+
+#footer-menu {
+    display: flex;
+    margin: auto var(--gap);
+}
+
+
+#footer-menu {
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+}
+
+#footer-menu li+li {
+    margin-inline-start: var(--gap);
+}
+
+#footer-menu a {
+    font-size: 16px;
+    border-bottom: none;
+}
+
+#footer-menu .active {
+    font-weight: 500;
+    border-bottom: 2px solid currentColor;
+}

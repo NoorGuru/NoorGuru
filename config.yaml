@@ -33,24 +33,27 @@ languages:
         - name: C++
           url: categories/c++/
           weight: 4
-#        - name: Blog
-#          url: posts
-#          weight: 5
         - name: Matlab
           url: categories/matlab/
           weight: 5
-        - name: Categories
-          url: categories
-          weight: 6
-        - name: Tags
-          url: tags
-          weight: 7
-        - name: Archive
-          url: archive
-          weight: 8
         - name: Search
           url: search
           weight: 9
+
+      footer:
+        - name: Categories
+          url: categories
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Archive
+          url: archive
+          weight: 3
+        - name: Search
+          url: search
+          weight: 4
+
 
 outputs:
   home:
