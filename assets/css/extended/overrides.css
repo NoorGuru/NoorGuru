@@ -1,6 +1,20 @@
+/*variables */
+:root {
+    --extra: #0f218a;
+}
+
+.dark {
+    --extra: #8c9999;
+}
+
+
+
+/*generic*/
 .main {
     max-width: calc(var(--nav-width) + var(--gap) * 2);
 }
+
+
 
 /*footer*/
 .footer-nav {
@@ -14,7 +28,6 @@
     display: flex;
     margin: auto var(--gap);
 }
-
 
 #footer-menu {
     list-style: none;
@@ -40,7 +53,18 @@
 }
 
 
+
 /*post*/
 .first-entry {
-    margin: auto;
+    /*margin: auto;*/
+    margin: var(--gap)0 calc(var(--gap));
+}
+
+.post-meta {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.category {
+    color: var(--extra);
 }
