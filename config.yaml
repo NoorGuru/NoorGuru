@@ -36,6 +36,9 @@ languages:
 #        - name: Blog
 #          url: posts
 #          weight: 5
+        - name: Matlab
+          url: categories/matlab/
+          weight: 5
         - name: Categories
           url: categories
           weight: 6
@@ -118,6 +121,8 @@ params:
       url: "https://linkedin.com/in/mohnoor94"
     - name: youtube
       url: "https://www.youtube.com/c/CodeWithNoor"
+    - name: youtube
+      url: "https://www.youtube.com/c/MohammadNoorAbuKhleif"
     - name: stackoverflow
       url: "https://stackoverflow.com/users/2847543/mohammad-noor"
     - name: twitter
