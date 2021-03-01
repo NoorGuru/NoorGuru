@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casting on noor.guru</title>
+    <link>https://www.noor.guru/tags/casting/</link>
+    <description>Recent content in Casting on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/casting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-8 Mixed Expressions &amp; Type Conversion (Casting) | التعابير المختلطة وتحويل الأنواع</title>
+      <link>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</guid>
+      <description> في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس باستخدام الكثير من الأمثلة
+ In this lecture, we will learn about mixed (mathematical) expressions, like;
+ int (op) int double (op) double double (op) int int (op) double  And type casting with static_cast, by understanding a lot of examples.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

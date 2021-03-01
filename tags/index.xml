@@ -5,13 +5,76 @@
     <link>https://www.noor.guru/tags/</link>
     <description>Recent content in Tags on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arithmetic Expressions</title>
       <link>https://www.noor.guru/tags/arithmetic-expressions/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/tags/arithmetic-expressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casting</title>
+      <link>https://www.noor.guru/tags/casting/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/casting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPP Course</title>
+      <link>https://www.noor.guru/tags/cpp-course/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/cpp-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture</title>
+      <link>https://www.noor.guru/tags/lecture/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Expressions</title>
+      <link>https://www.noor.guru/tags/mixed-expressions/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/mixed-expressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static_cast</title>
+      <link>https://www.noor.guru/tags/static_cast/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/static_cast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Conversion</title>
+      <link>https://www.noor.guru/tags/type-conversion/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/type-conversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.noor.guru/tags/video/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/video/</guid>
       <description></description>
     </item>
     
@@ -25,38 +88,11 @@
     </item>
     
     <item>
-      <title>CPP Course</title>
-      <link>https://www.noor.guru/tags/cpp-course/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/cpp-course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lecture</title>
-      <link>https://www.noor.guru/tags/lecture/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/lecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Operator Precedence</title>
       <link>https://www.noor.guru/tags/operator-precedence/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/tags/operator-precedence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://www.noor.guru/tags/video/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/video/</guid>
       <description></description>
     </item>
     
