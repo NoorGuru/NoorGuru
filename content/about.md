@@ -1,6 +1,7 @@
 ---
-# date: "2014-04-09"
 title: "About"
+draft: true
+showToc: false
 ---
 
 <!-- TODO -->
