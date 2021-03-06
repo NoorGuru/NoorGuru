@@ -5,7 +5,32 @@
     <link>https://www.noor.guru/tags/variables/</link>
     <description>Recent content in Variables on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/variables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/variables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-13 Putting Data into Variables (Assignment Statement &amp; Input - cin) | تعيين قيم للمتغيرات</title>
+      <link>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
+      <description>في هذا الدّرس سنتعرّف على طرق تعيين وإعطاء قيم للمتغيرات في لغة سي بلس بلس:
+ استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس  بالإضافة إلى:
+ مراجعة سريعة للمتغيرا لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس  باستخدام الكثير من الأمثلة
+  In this lecture, we will learn about:</description>
+    </item>
+    
+    <item>
+      <title>1-12 Named Constants in C&#43;&#43; | الثوابت في لغة سي بلس بلس</title>
+      <link>https://www.noor.guru/posts/cpp/named-constants-cpp/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/named-constants-cpp/</guid>
+      <description>في هذا الدّرس سنتعرّف على الثابت/الثوابت في لغة سي بلس بلس:
+ الثوابت لماذا نستخدم الثوابت في لغة السي بلس بلس؟ آهمية الثوابت في لغة سي بلس بلس كيف نعرف ثابت في لغة سي بلس بلس؟ آمثلة على الثوابت في لغة سي بلس بلس  بالإضافة إلى:
+ مراجعة سريعة للمتغيرات مقارنة الثوابت والمتغيرات  باستخدام الكثير من الأمثلة
+  In this lecture, we will learn about:
+ Named Constants Why to use a constant in C++?</description>
+    </item>
+    
     <item>
       <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
       <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>

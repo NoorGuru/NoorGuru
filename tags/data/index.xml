@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on noor.guru</title>
+    <link>https://www.noor.guru/tags/data/</link>
+    <description>Recent content in Data on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-13 Putting Data into Variables (Assignment Statement &amp; Input - cin) | تعيين قيم للمتغيرات</title>
+      <link>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
+      <description>في هذا الدّرس سنتعرّف على طرق تعيين وإعطاء قيم للمتغيرات في لغة سي بلس بلس:
+ استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس  بالإضافة إلى:
+ مراجعة سريعة للمتغيرا لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس  باستخدام الكثير من الأمثلة
+  In this lecture, we will learn about:</description>
+    </item>
+    
+  </channel>
+</rss>

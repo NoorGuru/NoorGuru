@@ -5,40 +5,67 @@
     <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/assignment-statement/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/c&#43;&#43;/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/cin/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/constants/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/cout/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/cpp-course/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/cpp_beginners/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/data/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/input/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/lecture/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/variables/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/video/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/cpp/named-constants-cpp/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/posts/cpp/escape-sequences-part-2-cpp/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/c&#43;&#43;/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/categories/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/cpp-course/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/cpp_beginners/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.noor.guru/tags/escape-sequence/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/lecture/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/video/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</loc>
@@ -63,9 +90,6 @@
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/string/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/variables/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</loc>
