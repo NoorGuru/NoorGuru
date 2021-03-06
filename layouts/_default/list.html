@@ -45,8 +45,8 @@
   {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2>
-      <span class="category">
-        [{{ index .Params.categories 0 }}]
+      <span class="post-icon">
+        {{ partial "svg.html" (dict "name" (.Param "icon")) }}
       </span>
       {{ .Title }}
       {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
@@ -60,6 +60,9 @@
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
+    <span class="category">
+        {{ index .Params.categories 0 }}
+    </span>
   </footer>
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
