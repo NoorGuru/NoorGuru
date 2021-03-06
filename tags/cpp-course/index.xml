@@ -5,14 +5,43 @@
     <link>https://www.noor.guru/tags/cpp-course/</link>
     <description>Recent content in CPP Course on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/cpp-course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/cpp-course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-11 Escape Sequences in C&#43;&#43; (Part 2)</title>
+      <link>https://www.noor.guru/posts/cpp/escape-sequences-part-2-cpp/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/escape-sequences-part-2-cpp/</guid>
+      <description>  في هذا الدّرس سنتعرّف على موضوع ال Escape Sequences في لغة سي بلس بلس - الجزء الثاني باستخدام الكثير من الأمثلة.   In this lecture, we will learn about Escape Sequences in C++ - Part 2 by using a lot of examples.
+  </description>
+    </item>
+    
+    <item>
+      <title>1-10 Escape Sequences in C&#43;&#43; (Part 1)</title>
+      <link>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</guid>
+      <description>  في هذا الدّرس سنتعرّف على موضوع ال Escape Sequences في لغة سي بلس بلس - الجزء الأول باستخدام الكثير من الأمثلة.   In this lecture, we will learn about Escape Sequences in C++ - Part 1 by using a lot of examples.
+  </description>
+    </item>
+    
+    <item>
+      <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
+      <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
+      <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس: - `string` (Strings) لتمثيل البيانات النصية - المكتبات الخارجية أو الأنواع الخاصة - الأنواع المضمنة افتراضيًا - كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى: - مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس - مراجعة الحروف النصية char/characters - مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
+    </item>
+    
     <item>
       <title>1-8 Mixed Expressions &amp; Type Conversion (Casting) | التعابير المختلطة وتحويل الأنواع</title>
       <link>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس .باستخدام الكثير من الأمثلة  In this lecture, we will learn about mixed (mathematical) expressions, like:
+      <description>  في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس .باستخدام الكثير من الأمثلة   In this lecture, we will learn about mixed (mathematical) expressions, like:
  int (op) int double (op) double double (op) int int (op) double  And type casting with static_cast, by understanding a lot of examples.
   </description>
     </item>
@@ -23,7 +52,7 @@
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
-      <description> في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة.  In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
+      <description>  في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة.   In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
   </description>
     </item>
     
@@ -33,11 +62,8 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على المعاملات والعمليات الحسابية في لغة سي بلس بلس:
- الجمع الطرح والأعداد السالبة الضرب القسمة باقي القسمة أنواع المعاملات: الأحادية والثنائية  باستخدام الكثير من الأمثلة
- In this lecture, we will learn about:
- Addition + Subtraction and negative numbers - Multiplication * Division / Mod, Modulus, Reminder % Binary Operators and Unary Operators  in C++, using multiple examples.
-  </description>
+      <description>في هذا الدّرس سنتعرّف على المعاملات والعمليات الحسابية في لغة سي بلس بلس: - الجمع - الطرح والأعداد السالبة - الضرب - القسمة - باقي القسمة - أنواع المعاملات: الأحادية والثنائية باستخدام الكثير من الأمثلة.   In this lecture, we will learn about:
+ Addition + Subtraction and negative numbers - Multiplication * Division / Mod, Modulus, Reminder % Binary Operators and Unary Operators  in C++, using multiple examples.</description>
     </item>
     
     <item>
@@ -46,7 +72,7 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/variables-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها  In this lecture, we will learn about variables and how to use them in C++.
+      <description>  في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها.   In this lecture, we will learn about variables and how to use them in C++.
   </description>
     </item>
     
@@ -56,9 +82,7 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/tokens-program-components-naming-rules-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على المكوّنات الأساسيّة لأي برنامج في لغة سي بلس بلس:
- الرموز الخاصة الكلمات المحجوزة الأسماء \ المعرّفات  بالإضافة إلى قواعد التّسمية في لغة سي بلس بلس
- In this lecture, we will learn about essential program components (tokens) in C++:
+      <description>  في هذا الدّرس سنتعرّف على المكوّنات الأساسيّة لأي برنامج في لغة سي بلس بلس: - الرموز الخاصة - الكلمات المحجوزة - الأسماء \ المعرّفات بالإضافة إلى قواعد التّسمية في لغة سي بلس بلس.   In this lecture, we will learn about essential program components (tokens) in C++:
  Special Symbols Reserved Words (Keywords) Identifiers (names)  In addition to naming rules in C++.
   </description>
     </item>
@@ -69,7 +93,7 @@
       <pubDate>Wed, 12 Mar 2014 23:59:59 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/data-types-cpp/</guid>
-      <description> في هذا الدرس سنتعرّف على أنواع البيانات المختلفة في لغة سي بلس بلس مثل الأرقام الصحيحة، الحروف، القيم المنطقية، الأعداد العشريّة، وغيرها. بالإضافة إلى تعلّم كيفيّة استخدام هذه الأنواع.  In this lecture, we will learn about int, char, bool, double float and other data types, while learning how and why to use them.
+      <description>  في هذا الدرس سنتعرّف على أنواع البيانات المختلفة في لغة سي بلس بلس مثل الأرقام الصحيحة، الحروف، القيم المنطقية، الأعداد العشريّة، وغيرها. بالإضافة إلى تعلّم كيفيّة استخدام هذه الأنواع.   In this lecture, we will learn about int, char, bool, double float and other data types, while learning how and why to use them.
   </description>
     </item>
     
@@ -79,7 +103,7 @@
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</guid>
-      <description> في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس.  In this lecture, we will learn some alternative ways t write our C++ programs.
+      <description>  في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس.   In this lecture, we will learn some alternative ways t write our C++ programs.
   </description>
     </item>
     
@@ -89,7 +113,7 @@
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp/</guid>
-      <description> في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج.  In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.
+      <description>  في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج.   In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.
   </description>
     </item>
     

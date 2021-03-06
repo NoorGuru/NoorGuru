@@ -12,7 +12,7 @@
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
-      <description> في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة.  In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
+      <description>  في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة.   In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.
   </description>
     </item>
     
@@ -22,11 +22,8 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على المعاملات والعمليات الحسابية في لغة سي بلس بلس:
- الجمع الطرح والأعداد السالبة الضرب القسمة باقي القسمة أنواع المعاملات: الأحادية والثنائية  باستخدام الكثير من الأمثلة
- In this lecture, we will learn about:
- Addition + Subtraction and negative numbers - Multiplication * Division / Mod, Modulus, Reminder % Binary Operators and Unary Operators  in C++, using multiple examples.
-  </description>
+      <description>في هذا الدّرس سنتعرّف على المعاملات والعمليات الحسابية في لغة سي بلس بلس: - الجمع - الطرح والأعداد السالبة - الضرب - القسمة - باقي القسمة - أنواع المعاملات: الأحادية والثنائية باستخدام الكثير من الأمثلة.   In this lecture, we will learn about:
+ Addition + Subtraction and negative numbers - Multiplication * Division / Mod, Modulus, Reminder % Binary Operators and Unary Operators  in C++, using multiple examples.</description>
     </item>
     
   </channel>

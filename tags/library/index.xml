@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on noor.guru</title>
+    <link>https://www.noor.guru/tags/library/</link>
+    <description>Recent content in Library on noor.guru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
+      <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
+      <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس: - `string` (Strings) لتمثيل البيانات النصية - المكتبات الخارجية أو الأنواع الخاصة - الأنواع المضمنة افتراضيًا - كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى: - مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس - مراجعة الحروف النصية char/characters - مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,7 +12,7 @@
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس .باستخدام الكثير من الأمثلة  In this lecture, we will learn about mixed (mathematical) expressions, like:
+      <description>  في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس .باستخدام الكثير من الأمثلة   In this lecture, we will learn about mixed (mathematical) expressions, like:
  int (op) int double (op) double double (op) int int (op) double  And type casting with static_cast, by understanding a lot of examples.
   </description>
     </item>
