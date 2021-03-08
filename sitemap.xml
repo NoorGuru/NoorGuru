@@ -5,6 +5,9 @@
     <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/posts/java/single-responsibility-principle-java/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-3-cpp/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -160,6 +163,15 @@
   </url><url>
     <loc>https://www.noor.guru/tags/tokens/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/design-principles/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/java/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/solid-design-principles/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/fp/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
