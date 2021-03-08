@@ -53,6 +53,10 @@ languages:
         - name: Search
           url: search
           weight: 4
+        - name: My Apps
+          url: https://go.noor.guru/apps
+        - name: My CV
+          url: https://go.noor.guru/cv
 
 
 outputs:
@@ -126,17 +130,17 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/mohnoor94"
+      url: "https://go.noor.guru/github"
     - name: linkedin
-      url: "https://linkedin.com/in/mohnoor94"
+      url: "https://go.noor.guru/linkedin"
     - name: youtube
-      url: "https://www.youtube.com/c/CodeWithNoor"
+      url: "https://go.noor.guru/youtube"
     - name: youtube
-      url: "https://www.youtube.com/c/MohammadNoorAbuKhleif"
+      url: "https://go.noor.guru/youtube-cwn"
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/2847543/mohammad-noor"
+      url: "https://go.noor.guru/sof"
     - name: twitter
-      url: "https://twitter.com/moh_noor94"
+      url: "https://go.noor.guru/twitter"
 #    - name: KoFi
 #      url: "https://ko-fi.com/adityatelange"
 #    - name: RsS
