@@ -21,9 +21,9 @@ languages:
     weight: 1
     menu:
       main:
-#        - name: Java
-#          url: categories/java/
-#          weight: 1
+        - name: Java
+          url: categories/java/
+          weight: 1
         - name: Scala
           url: categories/scala/
           weight: 2
@@ -115,6 +115,8 @@ params:
   homeInfoParams:
     Title: "noor.guru"
     buttons:
+      - name: Java
+        url: categories/java
       - name: Scala
         url: categories/scala
       - name: C++
