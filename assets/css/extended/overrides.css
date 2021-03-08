@@ -27,6 +27,8 @@
 #footer-menu {
     display: flex;
     margin: auto var(--gap);
+    padding-left: var(--gap);
+    padding-right: var(--gap);
 }
 
 #footer-menu {
@@ -35,7 +37,7 @@
     overflow-x: auto;
     white-space: nowrap;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 #footer-menu li+li {
