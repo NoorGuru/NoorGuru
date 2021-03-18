@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
-    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/java/single-responsibility-principle-java/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.noor.guru/posts/python/career-paths-python-course/</loc>
     <lastmod>2021-03-18T01:00:00+00:00</lastmod>
   </url><url>
@@ -197,6 +191,9 @@
     <loc>https://www.noor.guru/categories/java/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/posts/java/single-responsibility-principle-java/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/series/solid-design-principles/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -210,6 +207,9 @@
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/categories/scala/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/scala-language/</loc>
