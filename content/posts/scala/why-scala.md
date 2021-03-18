@@ -1,7 +1,6 @@
 ---
 title: "Scala and Functional Programming, Why?"
 date: 2018-04-21
-weight: 1
 slug: "why-scala-and-functional-programming"
 aliases: ["/scala/1"]
 tags: ["Scala Language", "Functional Programming", "FP", "OOP"]

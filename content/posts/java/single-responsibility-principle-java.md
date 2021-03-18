@@ -9,7 +9,6 @@ series: ["solid-design-principles"]
 aliases:
     - /java/1
 showToc: true
-weight: 2
 hideSummary: false
 ---
 
