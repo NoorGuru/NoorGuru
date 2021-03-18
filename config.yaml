@@ -140,8 +140,8 @@ params:
       url: "https://go.noor.guru/linkedin"
     - name: youtube
       url: "https://go.noor.guru/youtube"
-    - name: youtube
-      url: "https://go.noor.guru/youtube-cwn"
+#    - name: youtube
+#      url: "https://go.noor.guru/youtube-cwn"
     - name: stackoverflow
       url: "https://go.noor.guru/sof"
     - name: twitter
