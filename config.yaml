@@ -23,16 +23,16 @@ languages:
       main:
         - name: Java
           url: categories/java/
-          weight: 1
+          weight: 3
         - name: Scala
           url: categories/scala/
-          weight: 2
-#        - name: Python
-#          url: categories/python/
-#          weight: 3
+          weight: 4
+        - name: Python
+          url: categories/python/
+          weight: 1
         - name: C++
           url: categories/c++/
-          weight: 4
+          weight: 2
         - name: Matlab
           url: categories/matlab/
           weight: 5
@@ -116,12 +116,14 @@ params:
   homeInfoParams:
     Title: "noor.guru"
     buttons:
+      - name: Python
+        url: categories/python
+      - name: C++
+        url: categories/c++
       - name: Java
         url: categories/java
       - name: Scala
         url: categories/scala
-      - name: C++
-        url: categories/c++
       - name: Matlab
         url: categories/matlab
     Content: >
