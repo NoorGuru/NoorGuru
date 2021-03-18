@@ -8,6 +8,7 @@ tags: ["Scala Language", "Functional Programming", "FP", "OOP"]
 categories: ["Scala"]
 author: "Noor"
 draft: false
+hideSummary: false
 ---
 
 ## What is Scala?

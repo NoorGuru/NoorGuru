@@ -10,6 +10,7 @@ aliases:
     - /java/1
 showToc: true
 weight: 2
+hideSummary: false
 ---
 
 ## Solid Design Principles with Java Series

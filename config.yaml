@@ -69,6 +69,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Programming and Technology Guru!"
   author: Noor
+  hideSummary: true
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
