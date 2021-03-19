@@ -5,7 +5,17 @@
     <link>https://www.noor.guru/tags/notebook/</link>
     <description>Recent content in Notebook on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 02:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-4 Using Jupyter Notebook with Python | استخدام جوبيتار نوتبك مع لغة البرمجة بايثون</title>
+      <link>https://www.noor.guru/posts/python/jupyter-notebook-for-python-python-course/</link>
+      <pubDate>Fri, 19 Mar 2021 02:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/python/jupyter-notebook-for-python-python-course/</guid>
+      <description>في هذا الدّرس سنتعلّم كيفيّة استخدام جوبيتار نوتوبوك مع لغة البرمجة بايثون.  In this lecture, we will learn how to use Jupyter Notebook with Python programming language.
+ Download Anaconda (Including Jupyter Notebooks)    Resources Lecture Code Available on Github.</description>
+    </item>
+    
     <item>
       <title>1-3 Install Python, PyCharm, Anaconda, Jupyter and More | تثبيت بايثون وأدواتها</title>
       <link>https://www.noor.guru/posts/python/install-python-anaconda-jupyter-pycharm-tools-python-course/</link>
