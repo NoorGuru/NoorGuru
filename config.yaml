@@ -146,6 +146,8 @@ params:
       url: "https://go.noor.guru/sof"
     - name: twitter
       url: "https://go.noor.guru/twitter"
+    - name: email
+      url: "https://go.noor.guru/email"
 #    - name: KoFi
 #      url: "https://ko-fi.com/adityatelange"
 #    - name: RsS
