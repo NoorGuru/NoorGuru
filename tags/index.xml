@@ -5,7 +5,79 @@
     <link>https://www.noor.guru/tags/</link>
     <description>Recent content in Tags on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Mar 2021 02:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Input</title>
+      <link>https://www.noor.guru/tags/input/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/input/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture</title>
+      <link>https://www.noor.guru/tags/lecture/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Operations</title>
+      <link>https://www.noor.guru/tags/mathematical-operations/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/mathematical-operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operators Precedence</title>
+      <link>https://www.noor.guru/tags/operators-precedence/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/operators-precedence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Output</title>
+      <link>https://www.noor.guru/tags/output/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/output/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>print</title>
+      <link>https://www.noor.guru/tags/print/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/print/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Course</title>
+      <link>https://www.noor.guru/tags/python-course/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/python-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.noor.guru/tags/video/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/tags/video/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Jupyter</title>
       <link>https://www.noor.guru/tags/jupyter/</link>
@@ -16,38 +88,11 @@
     </item>
     
     <item>
-      <title>Lecture</title>
-      <link>https://www.noor.guru/tags/lecture/</link>
-      <pubDate>Fri, 19 Mar 2021 02:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/lecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Notebook</title>
       <link>https://www.noor.guru/tags/notebook/</link>
       <pubDate>Fri, 19 Mar 2021 02:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/tags/notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python Course</title>
-      <link>https://www.noor.guru/tags/python-course/</link>
-      <pubDate>Fri, 19 Mar 2021 02:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/python-course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://www.noor.guru/tags/video/</link>
-      <pubDate>Fri, 19 Mar 2021 02:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/video/</guid>
       <description></description>
     </item>
     
@@ -192,15 +237,6 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Input</title>
-      <link>https://www.noor.guru/tags/input/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/input/</guid>
       <description></description>
     </item>
     

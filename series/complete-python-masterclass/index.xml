@@ -5,7 +5,18 @@
     <link>https://www.noor.guru/series/complete-python-masterclass/</link>
     <description>Recent content in complete-python-masterclass on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Mar 2021 02:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/complete-python-masterclass/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/complete-python-masterclass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2-1 Output (print), Input, Mathematical Operations &amp; Operators Precedence | جمل الإدخال والإخراج والعمليات الحسابية وأولويات العمليّات</title>
+      <link>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</guid>
+      <description>في هذا الدرس سنبدأ بكتابة أول برنامج لنا في لغة بايثون وسنتعرّف على كل ممّا يلي:
+ جملة \ اقتران \ دالّة الطباعة والإخراج وصيغها المختلفة. جملة \ اقتران \ دالّة الإدخال. العمليّات الحسابيّة وكيفيّة استخدام بايثون كآلة حاسبة لحل جميع العمليّات الحسابيّة المختلفة. أولويّات العمليّات الحستبيّة في بايثون.    In this lecture, we will learn how to write our first program in Python by studying:
+ Output function (print), how, and why to use it.</description>
+    </item>
+    
     <item>
       <title>1-4 Using Jupyter Notebook with Python | استخدام جوبيتار نوتبك مع لغة البرمجة بايثون</title>
       <link>https://www.noor.guru/posts/python/jupyter-notebook-for-python-python-course/</link>
