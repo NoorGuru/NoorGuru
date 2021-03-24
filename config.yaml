@@ -84,10 +84,10 @@ params:
   TocOpen: true
 #  comments: true
   # images: ["papermod-cover.png"]
-  editPost:
-    URL: "https://github.com/mohnoor94/NoorGuru/blob/master/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+#  editPost:
+#    URL: "https://github.com/mohnoor94/NoorGuru/blob/master/content"
+#    Text: "Suggest Changes"
+#    appendFilePath: true
 
   profileMode:
     enabled: false
