@@ -85,7 +85,7 @@ params:
 #  comments: true
   # images: ["papermod-cover.png"]
   editPost:
-    URL: "https://github.com/NoorGuru/content"
+    URL: "https://github.com/NoorGuru/tree/master/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
