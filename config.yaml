@@ -82,12 +82,12 @@ params:
   ShowBreadCrumbs: true
   ShowToc: true
   TocOpen: true
-#  comments: true
+  #  comments: true
   # images: ["papermod-cover.png"]
-#  editPost:
-#    URL: "https://github.com/mohnoor94/NoorGuru/blob/master/content"
-#    Text: "Suggest Changes"
-#    appendFilePath: true
+  #  editPost:
+  #    URL: "https://github.com/mohnoor94/NoorGuru/blob/master/content"
+  #    Text: "Suggest Changes"
+  #    appendFilePath: true
 
   profileMode:
     enabled: false
@@ -105,12 +105,12 @@ params:
         url: categories/python
       - name: C++
         url: categories/c++
-#      - name: Blog
-#        url: posts
+      #      - name: Blog
+      #        url: posts
       - name: Archive
         url: archive
-#      - name: Categories
-#        url: categories
+      #      - name: Categories
+      #        url: categories
       - name: Tags
         url: tags
       - name: Search
@@ -144,18 +144,18 @@ params:
       url: "https://go.noor.guru/linkedin"
     - name: youtube
       url: "https://go.noor.guru/youtube"
-#    - name: youtube
-#      url: "https://go.noor.guru/youtube-cwn"
+    #    - name: youtube
+    #      url: "https://go.noor.guru/youtube-cwn"
     - name: stackoverflow
       url: "https://go.noor.guru/sof"
     - name: twitter
       url: "https://go.noor.guru/twitter"
     - name: email
       url: "https://go.noor.guru/email"
-#    - name: KoFi
-#      url: "https://ko-fi.com/adityatelange"
-#    - name: RsS
-#      url: "index.xml"
+  #    - name: KoFi
+  #      url: "https://ko-fi.com/adityatelange"
+  #    - name: RsS
+  #      url: "index.xml"
 
   # label:
   #     text: "Home"
@@ -167,11 +167,11 @@ params:
       SiteVerificationTag: "G-XHXB3G7XDR"
 
   assets:
-     favicon: "favicon.ico"
-     favicon16x16: "favicon-16x16.png"
-     favicon32x32: "favicon-32x32.png"
-     apple_touch_icon: "apple-touch-icon.png"
-     safari_pinned_tab: "safari-pinned-tab.svg"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
@@ -179,13 +179,13 @@ params:
   #     hiddenInSingle: true # hide on single page
 
   fuseOpts:
-       isCaseSensitive: false
-       shouldSort: true
-       location: 0
-       distance: 1000
-       threshold: 0.4
-       minMatchCharLength: 0
-       keys: ["title", "permalink", "summary", "content"]
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary", "content" ]
 
 taxonomies:
   category: categories
