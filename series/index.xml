@@ -5,9 +5,18 @@
     <link>https://www.noor.guru/series/</link>
     <description>Recent content in Series on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 23:21:15 +0300</lastBuildDate><atom:link href="https://www.noor.guru/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>complete-python-masterclass</title>
+      <title>Scalability</title>
+      <link>https://www.noor.guru/series/scalability/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/series/scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Python Masterclass</title>
       <link>https://www.noor.guru/series/complete-python-masterclass/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -16,16 +25,16 @@
     </item>
     
     <item>
-      <title>cpp_beginners</title>
-      <link>https://www.noor.guru/series/cpp_beginners/</link>
+      <title>C&#43;&#43; for Beginners</title>
+      <link>https://www.noor.guru/series/c&#43;&#43;-for-beginners/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/series/cpp_beginners/</guid>
+      <guid>https://www.noor.guru/series/c&#43;&#43;-for-beginners/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>solid-design-principles</title>
+      <title>Solid Design Principles</title>
       <link>https://www.noor.guru/series/solid-design-principles/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -34,11 +43,11 @@
     </item>
     
     <item>
-      <title>matlab_lectures</title>
-      <link>https://www.noor.guru/series/matlab_lectures/</link>
+      <title>Matlab Lectures</title>
+      <link>https://www.noor.guru/series/matlab-lectures/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/series/matlab_lectures/</guid>
+      <guid>https://www.noor.guru/series/matlab-lectures/</guid>
       <description></description>
     </item>
     

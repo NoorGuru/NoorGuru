@@ -5,7 +5,61 @@
     <link>https://www.noor.guru/tags/</link>
     <description>Recent content in Tags on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 23:21:15 +0300</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data</title>
+      <link>https://www.noor.guru/tags/big-data/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrency</title>
+      <link>https://www.noor.guru/tags/concurrency/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://www.noor.guru/tags/data/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalability</title>
+      <link>https://www.noor.guru/tags/scalability/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://www.noor.guru/tags/web/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://www.noor.guru/tags/web-design/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/web-design/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Input</title>
       <link>https://www.noor.guru/tags/input/</link>
@@ -228,15 +282,6 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/tags/constants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://www.noor.guru/tags/data/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.noor.guru/tags/data/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,18 @@
     <link>https://www.noor.guru/posts/</link>
     <description>Recent content in Posts on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 23:21:15 +0300</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Scalability (In a Nutshell)?</title>
+      <link>https://www.noor.guru/posts/system-design/what-is-scalability/</link>
+      <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/posts/system-design/what-is-scalability/</guid>
+      <description>Introduction  Things that can take an entire year in a corporate environment may need to happen in just a matter of weeks in a startup.
+ So that, you may need to scale up or scale down quickly, but what the scalability is even mean in a system design or software engineering context?
+ What is Scalability (In a Nutshell)? Scalability usually means the ability to handle more users, clients, data transactions, or requests without affecting the user experience.</description>
+    </item>
+    
     <item>
       <title>[Python 005] Output (print), Input, Mathematical Operations &amp; Operators Precedence | جمل الإدخال والإخراج والعمليات الحسابية وأولويات العمليّات</title>
       <link>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</link>

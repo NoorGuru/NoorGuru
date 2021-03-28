@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+    <loc>https://www.noor.guru/tags/big-data/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/categories/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/concurrency/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/data/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/scalability/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/scalability/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/system-design/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/web/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/web-design/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/system-design/what-is-scalability/</loc>
+    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/series/complete-python-masterclass/</loc>
@@ -20,16 +59,10 @@
     <loc>https://www.noor.guru/tags/mathematical-operations/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.noor.guru/tags/operators-precedence/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/output/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/print/</loc>
@@ -39,12 +72,6 @@
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/python-course/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/video/</loc>
@@ -95,13 +122,13 @@
     <loc>https://www.noor.guru/categories/c&#43;&#43;/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/series/c&#43;&#43;-for-beginners/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/tags/cout/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/cpp-course/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/cpp_beginners/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/decrement/</loc>
@@ -129,9 +156,6 @@
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/constants/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/data/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/variables/</loc>
@@ -227,10 +251,10 @@
     <loc>https://www.noor.guru/categories/java/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/java/single-responsibility-principle-java/</loc>
+    <loc>https://www.noor.guru/series/solid-design-principles/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/solid-design-principles/</loc>
+    <loc>https://www.noor.guru/posts/java/single-responsibility-principle-java/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/fp/</loc>
@@ -272,7 +296,7 @@
     <loc>https://www.noor.guru/categories/matlab/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/matlab_lectures/</loc>
+    <loc>https://www.noor.guru/series/matlab-lectures/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/debug/</loc>
