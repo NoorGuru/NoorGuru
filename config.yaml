@@ -21,24 +21,27 @@ languages:
     weight: 1
     menu:
       main:
+        - name: System Design
+          url: categories/system-design/
+          weight: 1
         - name: Java
           url: categories/java/
-          weight: 3
+          weight: 4
         - name: Scala
           url: categories/scala/
-          weight: 4
+          weight: 5
         - name: Python
           url: categories/python/
-          weight: 1
+          weight: 2
         - name: C++
           url: categories/c++/
-          weight: 2
+          weight: 3
         - name: Matlab
           url: categories/matlab/
-          weight: 5
+          weight: 6
         - name: Search
           url: search
-          weight: 9
+          weight: 10
 
       footer:
         - name: Categories
@@ -120,6 +123,8 @@ params:
   homeInfoParams:
     Title: "noor.guru"
     buttons:
+      - name: System Design
+        url: categories/system-design/
       - name: Python
         url: categories/python
       - name: C++
