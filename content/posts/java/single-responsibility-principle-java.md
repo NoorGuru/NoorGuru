@@ -5,7 +5,7 @@ draft: false
 slug: single-responsibility-principle-java
 tags: ["Design Principles", "Lecture"]
 categories: ["Java"]
-series: ["solid-design-principles"]
+series: ["Solid Design Principles"]
 aliases:
     - /java/1
 showToc: true
