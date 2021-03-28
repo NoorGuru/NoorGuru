@@ -14,8 +14,25 @@
     max-width: calc(var(--nav-width) + var(--gap) * 2);
 }
 
+/*home page*/
+
+.home-buttons {
+    margin: 10px auto;
+}
+
+.home-buttons-title {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
 .buttons {
     max-width: 800px;
+    justify-content: flex-start;
+}
+
+.latest-articles-title {
+    margin-bottom: 20px;
+    font-weight: 500;
 }
 
 

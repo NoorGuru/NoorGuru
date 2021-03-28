@@ -1,6 +1,6 @@
 baseURL: "https://www.noor.guru"
 title: noor.guru
-paginate: 5
+paginate: 7
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -122,19 +122,34 @@ params:
 
   homeInfoParams:
     Title: "noor.guru"
-    buttons:
+    video_series:
+      - name: C++ for Beginners
+        url: /series/c++-for-beginners/
+      - name: Complete Python Masterclass
+        url: /series/complete-python-masterclass/
+      - name: Matlab Lectures
+        url: /series/matlab-lectures/
+
+    series:
+      - name: Scalability
+        url: /series/scalability/
+      - name: Solid Design Principles
+        url: /series/solid-design-principles/
+
+    categories:
       - name: System Design
         url: categories/system-design/
-      - name: Python
-        url: categories/python
-      - name: C++
-        url: categories/c++
       - name: Java
         url: categories/java
       - name: Scala
         url: categories/scala
+      - name: Python
+        url: categories/python
+      - name: C++
+        url: categories/c++
       - name: Matlab
         url: categories/matlab
+
     Content: >
       Welcome to my cyber home.
 
