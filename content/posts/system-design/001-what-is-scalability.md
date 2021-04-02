@@ -2,7 +2,7 @@
 title: "What Is Scalability (in a Nutshell)?"
 date: 2021-03-28T23:21:15+03:00
 slug: "what-is-scalability"
-aliases: ["/design/1"]
+aliases: ["/sd/1"]
 tags: ["Scalability", "Concurrency", "Data", "Big Data", "Web Design", "Web"]
 categories: ["System Design"]
 series: ["Scalability"]
