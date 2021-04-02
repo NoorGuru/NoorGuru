@@ -1,12 +1,14 @@
 ---
-title: "What Is Scalability (In a Nutshell)?"
+title: "What Is Scalability (in a Nutshell)?"
 date: 2021-03-28T23:21:15+03:00
+slug: "what-is-scalability"
 aliases: ["/design/1"]
 tags: ["Scalability", "Concurrency", "Data", "Big Data", "Web Design", "Web"]
 categories: ["System Design"]
 series: ["Scalability"]
 author: "Noor"
 hideSummary: false
+summary: "Scalability usually means the ability to handle more users, clients, data transactions, or requests without affecting the user experience."
 ---
 
 ## Introduction
@@ -18,7 +20,7 @@ software engineering context?
 
 ---
 
-## What is Scalability (In a Nutshell)?
+## What is Scalability (in a Nutshell)?
 
 **Scalability** usually means the ability to handle more users, clients, data transactions, or requests ***without affecting the user experience***.
 
@@ -39,7 +41,7 @@ All of this would contribute in the scalability of your website (system), especi
 
 
 
-### 2. Handling Higher Concurrency Levels
+### 2. Handling Higher (or Lower) Concurrency Levels
 
 *How many users can use your application **at the same time** without affecting their user experience?*
 
@@ -50,7 +52,7 @@ Limited resources (which will be almost always the case), makes this even harder
 
 
 
-### 3. Handling Higher Interaction Rates
+### 3. Handling Higher (or Lower) Interaction Rates
 
 *How often your clients exchange information with your servers?*
 
@@ -62,7 +64,7 @@ quicker, which indeed requires more ***concurrency***.
 
 
 ---
-### Scalability VS Performance
+## Scalability VS Performance
 
 These two concepts are obviously related, but we can differentiate between them as in the following:
 - ***Performance*** measures how long it takes to process a request or to perform a certain task.
