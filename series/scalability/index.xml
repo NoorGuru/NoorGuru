@@ -5,7 +5,19 @@
     <link>https://www.noor.guru/series/scalability/</link>
     <description>Recent content in Scalability on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Mar 2021 23:21:15 +0300</lastBuildDate><atom:link href="https://www.noor.guru/series/scalability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 18:04:24 +0300</lastBuildDate><atom:link href="https://www.noor.guru/series/scalability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start Small (Single-Server Configuration)</title>
+      <link>https://www.noor.guru/posts/system-design/002-start-small/</link>
+      <pubDate>Fri, 02 Apr 2021 18:04:24 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/posts/system-design/002-start-small/</guid>
+      <description>Introduction In this post, we will take a step back, and discuss how could we start small and simple with our website before considering any scalability options, and we will discuss when should we start considering them.
+ Single-Server Configuration This is the simplest configuration, and the one you may start with for your small business or project.
+You need the following parts in your system:
+  Server in which you will host your website/system, and this server (computer) should be an always-connected server as you need to server your customers (clients) in any time!</description>
+    </item>
+    
     <item>
       <title>What Is Scalability (in a Nutshell)?</title>
       <link>https://www.noor.guru/posts/system-design/what-is-scalability/</link>
