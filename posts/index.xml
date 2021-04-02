@@ -42,7 +42,7 @@
       
       <guid>https://www.noor.guru/posts/python/jupyter-notebook-for-python-python-course/</guid>
       <description>في هذا الدّرس سنتعلّم كيفيّة استخدام جوبيتار نوتوبوك مع لغة البرمجة بايثون.  In this lecture, we will learn how to use Jupyter Notebook with Python programming language.
- Download Anaconda (Including Jupyter Notebooks)    Resources Lecture Code Available on Github.</description>
+ Download &amp;lt;strong&amp;gt;Anaconda&amp;lt;/strong&amp;gt; (Including &amp;lt;strong&amp;gt;Jupyter Notebooks&amp;lt;/strong&amp;gt;)     Resources Lecture Code Available on Github .</description>
     </item>
     
     <item>
@@ -52,7 +52,7 @@
       
       <guid>https://www.noor.guru/posts/python/install-python-anaconda-jupyter-pycharm-tools-python-course/</guid>
       <description>في هذا الدّرس سنقوم بتثبيت جميع البرمجيّات والأدوات اللازمة للبرمجة بلغة بايثون:  In this lecture, we will install all the needed programs and tools for Python development:
- Python Programming Language PyCharm Anaconda (Including Jupyter Notebooks) Visual Studio Code    Resources Lecture Code Available on Github.</description>
+ &amp;lt;strong&amp;gt;Python&amp;lt;/strong&amp;gt; Programming Language  &amp;lt;strong&amp;gt;PyCharm&amp;lt;/strong&amp;gt;  &amp;lt;strong&amp;gt;Anaconda&amp;lt;/strong&amp;gt; (Including &amp;lt;strong&amp;gt;Jupyter Notebooks&amp;lt;/strong&amp;gt;)  &amp;lt;strong&amp;gt;Visual Studio Code&amp;lt;/strong&amp;gt;     Resources Lecture Code Available on Github .</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@
       
       <guid>https://www.noor.guru/posts/python/introduction-python-course/</guid>
       <description>مقدّمة لـ كورس بايثون الشّامل ومنسّق ومقدّم الكورس: محمد نور أبو خليف.   This is an introduction to the Complete Python Masterclass and the instructor of the course: &amp;lsquo;Mohammad Noor&amp;rsquo; AbuKhleif.
-  Resources Lecture Code Available on Github.</description>
+  Resources Lecture Code Available on Github .</description>
     </item>
     
     <item>
@@ -237,7 +237,7 @@ Single Responsibility Principle (SRP) On this first lesson, we will discuss the 
       
       <guid>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</guid>
       <description>What is Scala?  “Scala combines object-oriented and functional programming in one concise, high-level language. Scala’s static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries”.
- This is how Scala official website introduces the language to the world. In this blog, I will try to make this introduction some way simpler with a taste of real Scala examples, note that I’m assuming a general knowledge of other object-oriented languages like Java or C# but no functional programming knowledge is ok.</description>
+ This is how Scala official website  introduces the language to the world. In this blog, I will try to make this introduction some way simpler with a taste of real Scala examples, note that I’m assuming a general knowledge of other object-oriented languages like Java or C# but no functional programming knowledge is ok.</description>
     </item>
     
     <item>
