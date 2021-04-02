@@ -5,28 +5,55 @@
     <loc>https://www.noor.guru/categories/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/tags/concurrency/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/dns/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/growth/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/http/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/ip/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/scalability/</loc>
+    <loc>https://www.noor.guru/tags/request/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/</loc>
+    <loc>https://www.noor.guru/series/scalability/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/system-design/002-start-small/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/series/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/server/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/service/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/single-server/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/categories/system-design/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/big-data/</loc>
-    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
+    <loc>https://www.noor.guru/tags/</loc>
+    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/concurrency/</loc>
+    <loc>https://www.noor.guru/tags/big-data/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/data/</loc>
@@ -35,16 +62,13 @@
     <loc>https://www.noor.guru/tags/scalability/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/</loc>
+    <loc>https://www.noor.guru/posts/system-design/what-is-scalability/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/web/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/web-design/</loc>
-    <lastmod>2021-03-28T23:21:15+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/system-design/what-is-scalability/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</loc>
