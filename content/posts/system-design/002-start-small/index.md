@@ -1,12 +1,13 @@
 ---
-title: "Start Small (Single-Server Configuration)"
+title: "Scalability 02 | Start Small (Single-Server Configuration)"
 date: 2021-04-02T18:04:24+03:00
 aliases: ["/sd/2"]
-tags: [""]
+tags: ["Server", "DNS", "IP", "HTTP", "Request", "Single-Server", "Service", "Growth", "Concurrency"]
 categories: ["System Design"]
 series: ["Scalability"]
 hideSummary: false
-summary: ""
+summary: "In this post, we will take a step back, and discuss how could we start small and simple with our website before considering
+any scalability options, and we will discuss when should we start considering them"
 ---
 
 ## Introduction
