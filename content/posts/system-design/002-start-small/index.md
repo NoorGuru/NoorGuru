@@ -1,7 +1,7 @@
 ---
 title: "Scalability 02 | Start Small (Single-Server Configuration)"
 date: 2021-04-02T18:04:24+03:00
-aliases: ["/sd/2"]
+aliases: ["/sd/2", "/scalability/2"]
 tags: ["Server", "DNS", "IP", "HTTP", "Request", "Single-Server", "Service", "Growth", "Concurrency"]
 categories: ["System Design"]
 series: ["Scalability"]
@@ -54,9 +54,9 @@ If that's what you are looking for, don't look further (unless, of course, you w
 ## When (and Why) to Scale?
 
 This (simple) configuration cannot take you beyond some simple or basic scenarios. At some point, or for other use-cases
-from the start, you should consider the possible ways of ***[Scalability](/sd/1)***.
+from the start, you should consider the possible ways of ***[Scalability](/scalability/1)***.
 
-When this time will come? and when should you consider the different ***[Scalability](/sd/1)*** options? If you have
+When this time will come? and when should you consider the different ***[Scalability](/scalability/1)*** options? If you have
 any of the following points or scenarios, then that time is NOW:
 
 1. **Increase in Traffic**, as your customers base grow, the load will increase on your single-server resources (such as 
