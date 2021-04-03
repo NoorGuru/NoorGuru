@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.noor.guru/categories/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/scalability/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/system-design/003-scale-vertically/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/system-design/</loc>
+    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/concurrency/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
@@ -20,22 +38,10 @@
     <loc>https://www.noor.guru/tags/ip/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
     <loc>https://www.noor.guru/tags/request/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/scalability/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/posts/system-design/002-start-small/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/</loc>
+    <loc>https://www.noor.guru/posts/system-design/scalability-start-small-single-server-configuration/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/server/</loc>
@@ -45,9 +51,6 @@
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/single-server/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/categories/system-design/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/</loc>
