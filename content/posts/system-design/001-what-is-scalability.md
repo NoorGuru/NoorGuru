@@ -1,5 +1,5 @@
 ---
-title: "Scalability 01 | What Is Scalability (in a Nutshell)?"
+title: "Scalability 01 | What Is Scalability (Scalability in a Nutshell)?"
 date: 2021-03-28T23:21:15+03:00
 slug: "what-is-scalability"
 aliases: ["/sd/1", "/scalability/1"]

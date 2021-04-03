@@ -1,6 +1,7 @@
 ---
 title: "Scalability 02 | Start Small (Single-Server Configuration)"
 date: 2021-04-02T18:04:24+03:00
+slug: "scalability-start-small-single-server-configuration"
 aliases: ["/sd/2", "/scalability/2"]
 tags: ["Server", "DNS", "IP", "HTTP", "Request", "Single-Server", "Service", "Growth", "Concurrency"]
 categories: ["System Design"]
