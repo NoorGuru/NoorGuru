@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+slug:
 aliases: ["/sd/"]
 tags: [""]
 categories: ["System Design"]
