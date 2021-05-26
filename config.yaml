@@ -136,6 +136,8 @@ params:
         url: /series/scalability/
       - name: Solid Design Principles
         url: /series/solid-design-principles/
+      - name: Java Best Practices
+        url: /series/java-best-practices/
 
     categories:
       - name: System Design
