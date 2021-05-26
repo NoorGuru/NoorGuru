@@ -106,3 +106,13 @@
     position: relative;
     float: right;
 }
+
+
+/*code*/
+pre {
+    font-size: 20px;
+}
+
+code > * {
+    font-size: 15px;
+}
