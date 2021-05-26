@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.noor.guru/tags/best-practice/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/categories/</loc>
-    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/effective-java/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/categories/java/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/java-best-practices/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/</loc>
-    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/</loc>
-    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/series/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/</loc>
+    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/series/scalability/</loc>
     <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/system-design/003-scale-vertically/</loc>
-    <lastmod>2021-04-03T23:51:58+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/</loc>
     <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/categories/system-design/</loc>
@@ -51,9 +69,6 @@
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/single-server/</loc>
-    <lastmod>2021-04-02T18:04:24+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/big-data/</loc>
@@ -276,9 +291,6 @@
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/design-principles/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/categories/java/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/series/solid-design-principles/</loc>

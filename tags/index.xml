@@ -5,7 +5,25 @@
     <link>https://www.noor.guru/tags/</link>
     <description>Recent content in Tags on noor.guru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Apr 2021 18:04:24 +0300</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:27:28 +0300</lastBuildDate><atom:link href="https://www.noor.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practice</title>
+      <link>https://www.noor.guru/tags/best-practice/</link>
+      <pubDate>Thu, 27 May 2021 00:27:28 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/best-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Java</title>
+      <link>https://www.noor.guru/tags/effective-java/</link>
+      <pubDate>Thu, 27 May 2021 00:27:28 +0300</pubDate>
+      
+      <guid>https://www.noor.guru/tags/effective-java/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Concurrency</title>
       <link>https://www.noor.guru/tags/concurrency/</link>
