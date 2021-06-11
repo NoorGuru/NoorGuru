@@ -153,6 +153,10 @@ params:
       - name: Matlab
         url: categories/matlab
 
+    resources:
+      - name: C++ Study Materials
+        url: cpp-resources
+
     Content: >
       Welcome to my cyber home.
 

@@ -44,6 +44,17 @@
       {{- end -}}
     </div>
     {{- end }}
+
+    {{- with .resources }}
+    <h3 class="home-buttons-title">Resources and Study Materials:</h3>
+    <div class="buttons">
+      {{- range . -}}
+      <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name | humanize }}">
+      <span class="button-inner">{{ .name }}</span>
+      </a>
+      {{- end -}}
+    </div>
+    {{- end }}
   </div>
 
 </article>
