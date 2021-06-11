@@ -21,27 +21,30 @@ languages:
     weight: 1
     menu:
       main:
-        - name: System Design
-          url: categories/system-design/
-          weight: 1
-        - name: Java
-          url: categories/java/
-          weight: 4
-        - name: Scala
-          url: categories/scala/
-          weight: 5
-        - name: Python
-          url: categories/python/
-          weight: 2
-        - name: C++
-          url: categories/c++/
-          weight: 3
-        - name: Matlab
-          url: categories/matlab/
-          weight: 6
+#        - name: System Design
+#          url: categories/system-design/
+#          weight: 1
+#        - name: Java
+#          url: categories/java/
+#          weight: 4
+#        - name: Scala
+#          url: categories/scala/
+#          weight: 5
+#        - name: Python
+#          url: categories/python/
+#          weight: 2
+#        - name: C++
+#          url: categories/c++/
+#          weight: 3
+#        - name: Matlab
+#          url: categories/matlab/
+#          weight: 6
         - name: Search
           url: search
           weight: 10
+        - name: Home
+          url: /
+          weight: 100
 
       footer:
         - name: Categories
