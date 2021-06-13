@@ -11,7 +11,9 @@ slug: technical-interview-preparation-guide
 I used to have some cheat sheets around to prepare myself for any incoming technical interview, so I thought it would be a better idea to gather them here for a quicker access.
 It could help someone else to prepare quickly as well!
 
-> ***This work will be always an in-progress work, I will keep updating this guide as I find any relevant materials***.
+***Important Notes:***
+> - ***This work will be always an in-progress work, I will keep updating this guide as I find any relevant materials***.
+> - The order might not be so relevant. Pick and choose what you need to review.
 
 ---
 
@@ -105,6 +107,66 @@ Keep these data structures, algorithms, and concepts in mind:
     - Try to solve it in your mind, and write a code that behaves the same.
     - Use a large and generic example.
     - Reverse engineering your thoughts!
+
+---
+
+## Bit Manipulation in a Nutshell
+
+* Get the i*th* bit of x ==> `x & (1 << i)`
+* Set the i*th* bit of x ==> `x | (1 << i)`
+* Clear the i*th* bit of x ==> `x & ~(1 << i)`
+
+
+---
+
+## Linked Lists VS Arrays
+
+| Case # | Operation / Data Structure | Arrays | Linked Lists |
+|------- |--------------------------- |------- |------------- |
+| 1 | get (retrieve) | Constant | Linear |
+| 2 | insert and delete (@ start) | Linear | Constant |
+| 3 | insert and delete (@ end) | Constant | Linear |
+
+**Clarifications:**
+* Case #1
+    - An array will get any item by index in a constant `O(1)` time.
+    - A linked list need to traverse and count nodes till reaching the needed item and return it, so that it needs a linear `O(n)` time.
+
+* Case #2
+    - An array will access the needed index in a constant `O(1)` time and add or delete it, but it needs a linear `O(n)` to shift **all** the old nodes to right in the case of adding and to left in the case of removing.
+    - A linked list need to traverse a **few** nodes (since we will add or delete from the start), add or delete the new node and update the pointers, so it needs a constant `O(1)` time.
+    
+* Case #3
+    - An array will access the needed index in a constant `O(1)` time and add or delete it, and since we are adding or deleting from the end, it needs a constant `O(1)` to shift the **few** old nodes to right in the case of adding and to left in the case of removing.
+    - A linked list need to traverse **almost all** nodes (since we will add or delete from the end), add or delete the new node and update the pointers, so it needs a linear `O(n)` time.
+    
+
+---
+
+## Sort Algorithms
+
+| Algorithms | Average Time Complexity | Worst Time Complexity | Worst Space Complexity | Keys / Notes |
+|----------- |------------------------ |---------------------- |----------------------- |---------------- |
+| **Best Time:**
+| Quick Sort | O(n lg n) | O(n^2) | O(lg n) | Pivot could make things missy |
+| Merge Sort | O(n lg n) | O(n lg n) | O(n) | Divide and conquer |
+|
+| **Best Space:**
+| Bubble Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every pair and swap if they are not in order |
+| Insertion Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every item with all previous items, if a smaller (a larger) item is found, move all items in between to right and *insert* that item in the correct place. |
+| Selection Sort | O(n^2) | O(n^2) | O(1) *in-place* | Find the smallest (largest) item and add it to the end of the sorted part. Usually worse than insertion sort. *The first part is always sorted*. |
+
+
+* Lower bound for sorting algorithms is O(n lg n).
+
+---
+
+## Search Algorithms
+
+| Algorithm | Average / Worst Time Complexity | Average / Worst Space Complexity | Why to use? | Notes |
+|---------- | ------------------------------- |--------------------------------- |------------ |------ |
+| Binary Search | O(lg n) | O(lg n) | *Best time* | **Works with sorted data only**. Extra space is needed for the call stack in the recursive solution. |
+| Linear Search | O(n) | O(1) *in-place* | *Best space* | Works with any (sorted or unsorted) data. |
 
 ---
 
