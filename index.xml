@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 27 May 2021 00:27:28 +0300</lastBuildDate><atom:link href="https://www.noor.guru/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Technical Interview Preparation Guide</title>
+      <link>https://www.noor.guru/technical-interview-preparation-guide/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.noor.guru/technical-interview-preparation-guide/</guid>
+      <description>I used to have some cheat sheets around to prepare myself for any incoming technical interview, so I thought it would be a better idea to gather them here for a quicker access.</description>
+    </item>
+    
+    <item>
       <title>Java Best Practices 01 | Static Factory Methods Over Constructors</title>
       <link>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</link>
       <pubDate>Thu, 27 May 2021 00:27:28 +0300</pubDate>
