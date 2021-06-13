@@ -159,6 +159,8 @@ params:
     resources:
       - name: C++ Study Materials
         url: cpp-resources
+      - name: Technical Interview Preparation Guide
+        url: technical-interview-preparation-guide
 
     Content: >
       Welcome to my cyber home.
