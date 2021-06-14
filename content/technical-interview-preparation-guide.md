@@ -145,6 +145,8 @@ Keep these data structures, algorithms, and concepts in mind:
 
 ## Sort Algorithms
 
+> **A great website to visualize and understand the different sorting algorithms is [visualgo.net](https://visualgo.net/en/sorting)**.
+
 | Algorithms | Average Time Complexity | Worst Time Complexity | Worst Space Complexity | Keys / Notes |
 |----------- |------------------------ |---------------------- |----------------------- |---------------- |
 | **Best Time:**
@@ -167,6 +169,62 @@ Keep these data structures, algorithms, and concepts in mind:
 |---------- | ------------------------------- |--------------------------------- |------------ |------ |
 | Binary Search | O(lg n) | O(lg n) | *Best time* | **Works with sorted data only**. Extra space is needed for the call stack in the recursive solution. |
 | Linear Search | O(n) | O(1) *in-place* | *Best space* | Works with any (sorted or unsorted) data. |
+
+---
+
+## Binary Trees
+
+### Types
+- A **binary tree** is a tree where every node has a max of 2 children.
+  
+- A **perfect binary tree** is a *binary* tree where all levels are full (every node has 2 children).
+  
+- A **complete binary tree** is a *binary* tree where all levels are full (every node has 2 children) except (possibly) the last level.
+    - Every perfect tree is a complete tree.
+
+- A **balanced binary tree** is a *binary* tree in which the left and right subtrees of every node differ in height by no more than 1.
+
+- A **full binary tree** is a *binary* tree in which every node has either 0 or 2 children.
+
+### Useful Computations
+In any ***perfect binary tree***:
+* Number of nodes `n` = `2^(h-1)`. Where `h` is the tree height.
+* Height `h` = `lg (n+1)`. Where `n` is the number of nodes.
+* Number of the nodes in the last level = number of nodes in all other levels **plus one**.
+
+---
+
+## SOLID Design Principles
+
+### Dependency Inversion
+- High level module should not depend on a low level module.
+- Both should depend on abstraction.
+- Abstraction should not depend on details.
+- Details should depend on abstraction.
+- A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/dependency_inversion).
+
+
+### Interface Segregation
+- You should add the minimum amount of methods/code to each interface.
+- At no point, the client should need to implement a method they do not need at all.
+- A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/interface_segreggation).
+
+
+### Liskov Substitution
+- You should be able to substitute a sub-class for a base class without breaking the logic.
+- A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/liskov_subsitution).
+
+
+### Open-Closed
+- Your code should be:
+    - *Open* for extension.
+    - *Closed* for modifications.
+- A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/open_closed).
+
+
+### Separation of Concerns (Single Responsibility)
+- Every module, class or function should have responsibility over a single part of that program's functionality, and it should encapsulate that part.
+- A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/single_responsibility).
 
 ---
 
