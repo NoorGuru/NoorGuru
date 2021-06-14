@@ -1,10 +1,10 @@
 ---
-title: "Technical Interview Preparation Guide"
+title: "Technical Interview Preparation Kit"
 draft: false
 showToc: true
 description: I used to have some cheat sheets around to prepare myself for any incoming technical interview, so I thought it would be a better idea to gather them here for a quicker access.
 date: 2021-06-13
-slug: technical-interview-preparation-guide
+slug: technical-interview-preparation-kit
 ---
 
 # Introduction

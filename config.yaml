@@ -157,8 +157,8 @@ params:
         url: categories/matlab
 
     resources:
-      - name: Technical Interview Preparation Guide
-        url: technical-interview-preparation-guide
+      - name: Technical Interview Preparation Kit
+        url: technical-interview-preparation-kit
       - name: C++ Study Materials
         url: cpp-resources
 
