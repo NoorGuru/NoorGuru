@@ -112,9 +112,9 @@ Keep these data structures, algorithms, and concepts in mind:
 
 ## Bit Manipulation in a Nutshell
 
-* Get the i*th* bit of x ==> `x & (1 << i)`
-* Set the i*th* bit of x ==> `x | (1 << i)`
-* Clear the i*th* bit of x ==> `x & ~(1 << i)`
+* Get the i*th* bit of x --> `x & (1 << i)`
+* Set the i*th* bit of x --> `x | (1 << i)`
+* Clear the i*th* bit of x --> `x & ~(1 << i)`
 
 
 ---
@@ -152,7 +152,7 @@ Keep these data structures, algorithms, and concepts in mind:
 | **Best Time:**
 | Quick Sort | O(n lg n) | O(n^2) | O(lg n) | Pivot could make things missy | **Not** stable |
 | Merge Sort | O(n lg n) | O(n lg n) | O(n) | Divide and conquer | Stable |
-| Heap Sort | O(n lg n) | O(n lg n) | O(1) | Heapsort is significantly slower than Quicksort and Merge Sort, so Heapsort is less commonly encountered in practice. | **Not** stable |
+| Heap Sort | O(n lg n) | O(n lg n) | O(1) *in-place* | Heapsort is significantly slower than Quicksort and Merge Sort, so Heapsort is less commonly encountered in practice. | **Not** stable |
 |
 | **Best Space:**
 | Bubble Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every pair and swap if they are not in order | Stable |
@@ -175,6 +175,15 @@ Keep these data structures, algorithms, and concepts in mind:
 
 ---
 
+## Trees
+
+### Tree Traversals
+- Pre order: **root** --> left --> right
+- In order: left --> **root** --> right
+- Post order: left --> right --> **root**
+
+---
+
 ## Binary Trees
 
 ### Types
@@ -189,11 +198,43 @@ Keep these data structures, algorithms, and concepts in mind:
 
 - A **full binary tree** is a *binary* tree in which every node has either 0 or 2 children.
 
+- A **binary search tree** is a *binary* tree whose internal nodes each store a key greater than all the keys in the node's left subtree and less than those in its right subtree.
+    - An in-order traversal for a binary search tree will give us ascending sorted data.
+    - A binary search tree is an ideal way to go with the hierarchical way of storing data.
+
 ### Useful Computations
 In any ***perfect binary tree***:
 * Number of nodes `n` = `2^(h-1)`. Where `h` is the tree height.
 * Height `h` = `lg (n+1)`. Where `n` is the number of nodes.
-* Number of the nodes in the last level = number of nodes in all other levels **plus one**.
+* Number of the nodes in the last level = number of nodes in all other levels + 1.
+
+---
+
+## Graphs
+
+- A graph organizes items in an interconnected network.
+- A graph consist of multiple nodes and edges between them.
+
+### Classifications
+A graph could be:
+- Directed or Undirected
+    - The edge is bidirectional in an undirected graph, but has a direction in a directed graph.
+- Cyclic or Acyclic
+    - A graph is cyclic if you can start from any node and come back to it in a closed path; acyclic otherwise.
+- Weighted or Unweighted
+    - The edge has a certain weight (importance / degree) in a weighted graph. All edges have the same weight in an unweighted graph.
+
+### Representations
+A graph could be represented with:
+- An edge list
+    - A list of all the edges in the graph.
+    - Every edge represented by the 2 nodes it connects.
+    - An unconnected node (a node with no edges) will not be represented with this form.
+- An adjacency list
+    - A list where index represents the node, and the value at that index is a list of the node's neighbors.
+    - Another form of this representation is to use a map (a dictionary) where the key is the node, and the value is a list of neighbors.
+- An adjacency matrix
+    - A matrix of `0`s and `1`s indicating whether a node `x` connects to node `y` where `0` means unconnected and `1` means connected.
 
 ---
 
