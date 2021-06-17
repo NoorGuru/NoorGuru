@@ -56,12 +56,12 @@ languages:
         - name: Tags
           url: tags
           weight: 2
-        - name: Timeline
-          url: timeline
-          weight: 3
-        - name: Search
-          url: search
-          weight: 4
+#        - name: Timeline
+#          url: timeline
+#          weight: 3
+#        - name: Search
+#          url: search
+#          weight: 4
         - name: My Apps
           url: https://go.noor.guru/apps
         - name: My CV
