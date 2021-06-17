@@ -50,9 +50,9 @@ languages:
           weight: 1000
 
       footer:
-        - name: Categories
-          url: categories
-          weight: 1
+#        - name: Categories
+#          url: categories
+#          weight: 1
         - name: Tags
           url: tags
           weight: 2

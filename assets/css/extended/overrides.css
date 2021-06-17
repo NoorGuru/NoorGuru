@@ -57,7 +57,7 @@
     overflow-x: auto;
     white-space: nowrap;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 #footer-menu li+li {
