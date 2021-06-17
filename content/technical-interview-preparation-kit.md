@@ -147,19 +147,22 @@ Keep these data structures, algorithms, and concepts in mind:
 
 > **A great website to visualize and understand the different sorting algorithms is [visualgo.net](https://visualgo.net/en/sorting)**.
 
-| Algorithms | Average Time Complexity | Worst Time Complexity | Worst Space Complexity | Keys / Notes |
-|----------- |------------------------ |---------------------- |----------------------- |---------------- |
+| Algorithm | Average Time Complexity | Worst Time Complexity | Worst Space Complexity | Keys / Notes | Stability |
+|----------- |------------------------ |---------------------- |----------------------- |------------- |---------- |
 | **Best Time:**
-| Quick Sort | O(n lg n) | O(n^2) | O(lg n) | Pivot could make things missy |
-| Merge Sort | O(n lg n) | O(n lg n) | O(n) | Divide and conquer |
+| Quick Sort | O(n lg n) | O(n^2) | O(lg n) | Pivot could make things missy | **Not** stable |
+| Merge Sort | O(n lg n) | O(n lg n) | O(n) | Divide and conquer | Stable |
+| Heap Sort | O(n lg n) | O(n lg n) | O(1) | Heapsort is significantly slower than Quicksort and Merge Sort, so Heapsort is less commonly encountered in practice. | **Not** stable |
 |
 | **Best Space:**
-| Bubble Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every pair and swap if they are not in order |
-| Insertion Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every item with all previous items, if a smaller (a larger) item is found, move all items in between to right and *insert* that item in the correct place. |
-| Selection Sort | O(n^2) | O(n^2) | O(1) *in-place* | Find the smallest (largest) item and add it to the end of the sorted part. Usually worse than insertion sort. *The first part is always sorted*. |
+| Bubble Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every pair and swap if they are not in order | Stable |
+| Insertion Sort | O(n^2) | O(n^2) | O(1) *in-place* | Compare every item with all previous items, if a smaller (a larger) item is found, move all items in between to right and *insert* that item in the correct place. | Stable |
+| Selection Sort | O(n^2) | O(n^2) | O(1) *in-place* | Find the smallest (largest) item and add it to the end of the sorted part. Usually worse than insertion sort. *The first part is always sorted*. | **Not** stable |
 
 
 * Lower bound for sorting algorithms is O(n lg n).
+* A sorting algorithm is stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted. Informally, stability means that equivalent elements retain their relative positions, after sorting.
+* Read more about different sorting algorithms in [HappyCoders.eu](https://www.happycoders.eu/algorithms/).
 
 ---
 
@@ -230,3 +233,4 @@ In any ***perfect binary tree***:
 
 # Sources and References
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com). A book by Gayle McDowell, 6th edition.
+- [HappyCoders.eu](https://www.happycoders.eu/blog/). A blog by Sven Woltmann to make you a better Java programmer (and more).
