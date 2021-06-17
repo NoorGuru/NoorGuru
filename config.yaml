@@ -171,16 +171,18 @@ params:
 
 
   socialIcons:
-    - name: github
-      url: "https://go.noor.guru/github"
     - name: linkedin
       url: "https://go.noor.guru/linkedin"
+    - name: github
+      url: "https://go.noor.guru/github"
+    - name: hackerrank
+      url: "https://go.noor.guru/hr"
+    - name: stackoverflow
+      url: "https://go.noor.guru/sof"
     - name: youtube
       url: "https://go.noor.guru/youtube"
     #    - name: youtube
     #      url: "https://go.noor.guru/youtube-cwn"
-    - name: stackoverflow
-      url: "https://go.noor.guru/sof"
     - name: twitter
       url: "https://go.noor.guru/twitter"
     - name: email
