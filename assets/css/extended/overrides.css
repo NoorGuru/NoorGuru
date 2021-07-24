@@ -161,8 +161,10 @@ code > * {
     font-size: 15px;
 }
 
+
+/*cv*/
 .cv {
-    width: var(--main-width);
+    max-width: var(--main-width);
     height: 1100px;
     text-align: center;
     margin-top: calc(2 * var(--gap));
@@ -171,4 +173,10 @@ code > * {
 .cv-iframe {
     width: calc(var(--main-width) - var(--gap) * 4);
     height: inherit;
+}
+
+@media (max-width: 600px) {
+    .cv {
+        height: 600px;
+    }
 }
