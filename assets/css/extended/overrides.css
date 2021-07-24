@@ -1,17 +1,61 @@
 /*variables */
 :root {
     --extra: #0f218a;
+    --c1: #d9d9d9;
+    --c2: #f6f2f2;
+    --code-bg: linear-gradient(315deg, var(--c1) 0%, var(--c2) 74%);
+    --code-bg2: linear-gradient(315deg, var(--c2) 26%, var(--c1) 74%);
+    --entry: var(--code-bg);
+    --theme: var(--code-bg);
+    --border: var(--code-bg2);
+    --main-width: var(--nav-width);
+    --radius: 10px;
 }
 
 .dark {
     --extra: #8c9999;
+    --c1: #130f40;
+    --c2: #000000;
+    --code-bg: linear-gradient(315deg, var(--c1) 0%, var(--c2) 74%);
+    --code-bg2: linear-gradient(315deg, var(--c2) 26%, var(--c1) 74%);
+    --entry: var(--code-bg);
+    --theme: var(--code-bg);
+    --border: var(--code-bg2);
+}
+
+@font-face {
+    font-family: "Noor-Font";
+    src: url("../../fonts/Cairo-Regular.ttf");
+}
+
+body, .dark.list {
+    background-color: var(--c1);
+    background-image: var(--code-bg);
+    font-family: -apple-system, BlinkMacSystemFont, "Noor-Font", 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
-
 /*generic*/
-.main {
-    max-width: calc(var(--nav-width) + var(--gap) * 2);
+
+.button, .terms-tags > li {
+    background-color: var(--c1);
+    background-image: var(--code-bg);
+    font-size: 20px;
+    border-color: var(--code-bg2);
+}
+
+.button:hover, .terms-tags > li:hover {
+    background-color: var(--c2);
+    background-image: var(--code-bg2);
+}
+
+.post-tags a:hover,
+.paginav a:hover {
+    background: var(--code-bg2);
+}
+
+.pagination > .next, .pagination > .prev {
+    background: var(--code-bg2);
 }
 
 /*home page*/
