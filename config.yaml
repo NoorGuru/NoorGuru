@@ -50,22 +50,15 @@ languages:
           weight: 1000
 
       footer:
-#        - name: Categories
-#          url: categories
-#          weight: 1
         - name: Tags
           url: tags
+          weight: 1
+        - name: My CV
+          url: cv
           weight: 2
-#        - name: Timeline
-#          url: timeline
-#          weight: 3
-#        - name: Search
-#          url: search
-#          weight: 4
         - name: My Apps
           url: https://go.noor.guru/apps
-        - name: My CV
-          url: https://go.noor.guru/cv
+          weight: 3
 
 
 outputs:

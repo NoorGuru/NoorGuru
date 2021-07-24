@@ -160,3 +160,15 @@ pre {
 code > * {
     font-size: 15px;
 }
+
+.cv {
+    width: var(--main-width);
+    height: 1100px;
+    text-align: center;
+    margin-top: calc(2 * var(--gap));
+}
+
+.cv-iframe {
+    width: calc(var(--main-width) - var(--gap) * 4);
+    height: inherit;
+}
