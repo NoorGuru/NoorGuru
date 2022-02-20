@@ -92,39 +92,6 @@
     <loc>https://www.noor.guru/tags/web-design/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/python/input-output-print-mathematical-operations-operators-precedence-python-course/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/complete-python-masterclass/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/input/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/lecture/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/mathematical-operations/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/operators-precedence/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/output/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/print/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/categories/python/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/python-course/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/tags/video/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-3-cpp/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -146,7 +113,13 @@
     <loc>https://www.noor.guru/tags/increment/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.noor.guru/tags/lecture/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.noor.guru/tags/operators/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/video/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-2-cpp/</loc>
@@ -165,6 +138,9 @@
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/constants/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.guru/tags/input/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.noor.guru/tags/variables/</loc>
