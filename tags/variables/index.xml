@@ -13,9 +13,10 @@
       
       <guid>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على طرق تعيين وإعطاء قيم للمتغيرات في لغة سي بلس بلس:
- استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس  بالإضافة إلى:
- مراجعة سريعة للمتغيرات لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس  باستخدام الكثير من الأمثلة
-  In this lecture, we will learn about:</description>
+استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس بالإضافة إلى:
+مراجعة سريعة للمتغيرات لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس باستخدام الكثير من الأمثلة
+In this lecture, we will learn about:
+Using C++ Assignment Statement Use Input/Read Statement in C++ (cin) In addition to:</description>
     </item>
     
     <item>
@@ -25,10 +26,10 @@
       
       <guid>https://www.noor.guru/posts/cpp/named-constants-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على الثابت/الثوابت في لغة سي بلس بلس:
- الثوابت لماذا نستخدم الثوابت في لغة السي بلس بلس؟ آهمية الثوابت في لغة سي بلس بلس كيف نعرف ثابت في لغة سي بلس بلس؟ آمثلة على الثوابت في لغة سي بلس بلس  بالإضافة إلى:
- مراجعة سريعة للمتغيرات مقارنة الثوابت والمتغيرات  باستخدام الكثير من الأمثلة
-  In this lecture, we will learn about:
- Named Constants Why to use a constant in C++?</description>
+الثوابت لماذا نستخدم الثوابت في لغة السي بلس بلس؟ آهمية الثوابت في لغة سي بلس بلس كيف نعرف ثابت في لغة سي بلس بلس؟ آمثلة على الثوابت في لغة سي بلس بلس بالإضافة إلى:
+مراجعة سريعة للمتغيرات مقارنة الثوابت والمتغيرات باستخدام الكثير من الأمثلة
+In this lecture, we will learn about:
+Named Constants Why to use a constant in C++?</description>
     </item>
     
     <item>
@@ -38,8 +39,8 @@
       
       <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس:
- string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس  بالإضافة إلى:
- مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع  باستخدام الكثير من الأمثلة.</description>
+string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى:
+مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
     </item>
     
     <item>
@@ -48,8 +49,7 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/variables-cpp/</guid>
-      <description> في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها.   In this lecture, we will learn about variables and how to use them in C++.
-  </description>
+      <description>في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها. In this lecture, we will learn about variables and how to use them in C++.</description>
     </item>
     
   </channel>

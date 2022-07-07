@@ -13,8 +13,8 @@
       
       <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس:
- string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس  بالإضافة إلى:
- مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع  باستخدام الكثير من الأمثلة.</description>
+string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى:
+مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
     </item>
     
     <item>
@@ -23,8 +23,7 @@
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</guid>
-      <description> في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس.   In this lecture, we will learn some alternative ways t write our C++ programs.
-  </description>
+      <description>في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس. In this lecture, we will learn some alternative ways t write our C++ programs.</description>
     </item>
     
     <item>
@@ -33,8 +32,7 @@
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp/</guid>
-      <description> في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج.   In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.
-  </description>
+      <description>في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج. In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.</description>
     </item>
     
   </channel>

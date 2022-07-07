@@ -12,10 +12,10 @@
       <pubDate>Thu, 27 May 2021 00:27:28 +0300</pubDate>
       
       <guid>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</guid>
-      <description>Static Factory Methods  Consider using Static Factory Methods Instead of Constructors
- The static factory method is a method that returns an instance of the class.
- Example In this example, we will build some HTML elements using Java. Here is the base class.
-1 2 3 4 5 6 7 8 9 10 11 12 13 14  class HtmlElement { private final String tag; private final String content; public HtmlElement(String tag, String content) { this.</description>
+      <description>Static Factory Methods Consider using Static Factory Methods Instead of Constructors
+The static factory method is a method that returns an instance of the class.
+Example In this example, we will build some HTML elements using Java. Here is the base class.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 class HtmlElement { private final String tag; private final String content; public HtmlElement(String tag, String content) { this.</description>
     </item>
     
     <item>
