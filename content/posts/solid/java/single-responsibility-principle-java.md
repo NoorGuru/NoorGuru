@@ -7,7 +7,7 @@ tags: ["Design Principles", "Lecture"]
 categories: ["Java"]
 series: ["Solid Design Principles"]
 aliases:
-    - /solid-java/1
+    - /solid/java/1
     - /solid/1
 showToc: true
 hideSummary: false
