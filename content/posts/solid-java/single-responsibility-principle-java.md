@@ -2,12 +2,12 @@
 title: "Solid Design Principles with Java – #01 Single Responsibility Principle (SRP)"
 date: 2019-03-30
 draft: false
-slug: single-responsibility-principle-java
+slug: single-responsibility-principle
 tags: ["Design Principles", "Lecture"]
 categories: ["Java"]
 series: ["Solid Design Principles"]
 aliases:
-    - /java/1
+    - /solid-java/1
     - /solid/1
 showToc: true
 hideSummary: false
