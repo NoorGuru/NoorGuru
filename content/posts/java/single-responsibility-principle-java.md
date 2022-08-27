@@ -8,6 +8,7 @@ categories: ["Java"]
 series: ["Solid Design Principles"]
 aliases:
     - /java/1
+    - /solid/1
 showToc: true
 hideSummary: false
 ---
@@ -36,16 +37,15 @@ should you copy and paste your methods from the Journal class? – isn’t this
 a [code smell](https://en.wikipedia.org/wiki/Code_smell)?
 
 Let’s think again – why did you add the persistence logic to the Journal class itself? to make things simpler?
-– wrong, it starts to complicate things.
+– but, mmm, it starts to complicate things.
 
-You should observe now that the persistence logic has nothing to do with the Journal, so go on and build him a new home,
-maybe a util class.
+You should observe now that the persistence logic has nothing to do with the Journal, so go on and build them a new home.
 
 And that’s it, you just separated the logic of persistence code to its own class. And now, anytime you want to update
 this code – you will not care about updating it in many places. Congratulations!
 
 
-### Talk is cheap, show me the code [^1]
+### Talk is cheap, show me the code
 
 ```java
 package _00_solid_design_principles.single_responsibility;
@@ -59,7 +59,8 @@ public class Journal {
     private static int count = 0;
 
     public void addEntry(String text) {
-        entries.add(++count + ": " + text);
+        ++count;
+        entries.add(count + ": " + text);
     }
 
     public void removeEntry(int index) {
@@ -84,12 +85,8 @@ import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.net.URL;
 public class Persistence {
-    public void save(Journal journal, String fileName, boolean overwrite) throws FileNotFoundException {
-        if (overwrite || new File(fileName).exists()) {
-            try (PrintStream out = new PrintStream(fileName)) {
-                out.println(journal.toString());
-            }
-        }
+    public void save(Journal journal, String fileName, boolean overwrite) {
+        throw new NotImplementedException(); // implement it your way
     }
     public Journal load(String fileName) {
         throw new NotImplementedException(); // implement it your way
@@ -105,7 +102,7 @@ public class Persistence {
 package _00_solid_design_principles.single_responsibility;
 import java.io.FileNotFoundException;
 public class Demo {
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) {
         Journal journal = new Journal();
         journal.addEntry("I cried today");
         journal.addEntry("I ate a bug");
@@ -118,10 +115,3 @@ public class Demo {
 ```
 
 or check the code in [my GitHub repository](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/single_responsibility)!
-
-
-
-
-
-
-[^1]: [Linus Torvalds](https://www.goodreads.com/quotes/437173-talk-is-cheap-show-me-the-code)
