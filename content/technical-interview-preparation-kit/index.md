@@ -2,17 +2,19 @@
 title: "Technical Interview Preparation Kit"
 draft: false
 showToc: true
-description: I used to have some cheat sheets around to prepare myself for any incoming technical interview, so I thought it would be a better idea to gather them here for a quicker access.
+description: I used to have some cheat sheets around to prepare myself for any incoming technical interview, then I thought it would be a better idea to gather them here for a quicker access.
 date: 2021-06-13
 slug: technical-interview-preparation-kit
 ---
+_Updated on Nov 1st, 2022_
+
 
 # Introduction
-I used to have some cheat sheets around to prepare myself for any incoming technical interview, so I thought it would be a better idea to gather them here for a quicker access.
-It could help someone else to prepare quickly as well!
+I used to have some cheat sheets around to prepare myself for any incoming technical interviews, then I thought it would be a better idea to gather them here for a quicker access.
+It could help someone else to prepare quickly as well :)
 
 ***Important Notes:***
-> - ***This work will be always an in-progress work, I will keep updating this guide as I find any relevant materials***.
+> - ***This work is an in-progress work, I will keep updating this guide as I find new relevant materials***.
 > - The order might not be so relevant. Pick and choose what you need to review.
 
 ---
@@ -22,12 +24,15 @@ It could help someone else to prepare quickly as well!
 If I can afford only one book to prepare for my technical interviews, I will definitely buy the [Cracking the Coding Interview](https://www.crackingthecodinginterview.com) book by Gayle McDowell, 6th edition.
 That's it, good luck!
 
+## Before You Continue
+> Check my new presentation on [Cracking the Tech Job Interview](https://present.noor.guru/tech-interview/) to get a better understanding of the technical interview process, and what you can do to prepare for it - on the technical and non-technical sides.
+
 ---
 
 # Short Term Preparation Kit
 
-If I don't have a long time to prepare, or if I already went through the long term perpetrate kit before, and I want a quick reference, I would follow this kit.
-Multiple resources and steps are already summarizing some topics from the Cracking the Coding Interview book I referred above, slightly updated by me.
+If I don't have a long time to prepare, or if I already went through the long term preparation kit before, and I want a quick refresh, I would follow this kit.
+Multiple resources and steps are already summarizes some topics from the Cracking the Coding Interview book I referred above, with few modifications.
 
 **Video Kit:**
 If I have a little more time, I would go through [this playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK) first, at least once.
@@ -269,7 +274,7 @@ A graph could be represented with:
 ### Separation of Concerns (Single Responsibility)
 - Every module, class or function should have responsibility over a single part of that program's functionality, and it should encapsulate that part.
 - A [code example](https://github.com/mohnoor94/LearningDesignPatterns/tree/master/src/main/java/_00_solid_design_principles/single_responsibility).
-
+- Read more about [Single Responsibility Principle](../posts/solid/java/single-responsibility-principle/).
 ---
 
 # Sources and References
