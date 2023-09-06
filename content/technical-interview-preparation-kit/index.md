@@ -2,24 +2,22 @@
 title: "Technical Interview Preparation Kit"
 draft: false
 showToc: true
-description: I used to have some cheat sheets around to prepare myself for any incoming technical interview, then I thought it would be a better idea to gather them here for a quicker access.
+description: I used to have some cheat sheets around to prepare myself for any incoming technical interview, then I thought it would be a better idea to gather them here for quicker access.
 date: 2021-06-13
 slug: technical-interview-preparation-kit
 ---
-_Updated on Nov 1st, 2022_
+_Updated on Sep 7th, 2023_
 
 
 # Introduction
-I used to have some cheat sheets around to prepare myself for any incoming technical interviews, then I thought it would be a better idea to gather them here for a quicker access.
+I used to have some cheat sheets around to prepare myself for any incoming technical interviews, so I thought it would be a better idea to gather them here for quicker access.
 It could help someone else to prepare quickly as well :)
 
-***Important Notes:***
-> - ***This work is an in-progress work, I will keep updating this guide as I find new relevant materials***.
-> - The order might not be so relevant. Pick and choose what you need to review.
+>The order might not be so relevant. Pick and choose what you need to review.
 
 ---
 
-# Long Term Preparation Kit
+# Long-Term Preparation Kit
 
 If I can afford only one book to prepare for my technical interviews, I will definitely buy the [Cracking the Coding Interview](https://www.crackingthecodinginterview.com) book by Gayle McDowell, 6th edition.
 That's it, good luck!
@@ -27,12 +25,31 @@ That's it, good luck!
 ## Before You Continue
 > Check my new presentation on [Cracking the Tech Job Interview](https://present.noor.guru/tech-interview/) to get a better understanding of the technical interview process, and what you can do to prepare for it - on the technical and non-technical sides.
 
+
 ---
 
-# Short Term Preparation Kit
+# Learn by Practice
+If you prefer to learn by practising, I would advise you to start with Hackerank Preparation Kits.
 
-If I don't have a long time to prepare, or if I already went through the long term preparation kit before, and I want a quick refresh, I would follow this kit.
-Multiple resources and steps are already summarizes some topics from the Cracking the Coding Interview book I referred above, with few modifications.
+## Practice per Topic
+[The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+**Recommended** if you are a beginner or you need a refresher on a certain topic.
+
+## Practice on a Schedule
+[Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)
+**Recommended** if you have a scheduled interview, and you need to refresh your skills in different topics.
+
+- [3 Months Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
+- [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)
+- [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges)
+- **1 Day Preparation Kit?** Continue reading this article.
+
+---
+
+# Short-Term Preparation Kit
+
+If I don't have a long time to prepare, or if I already went through the long-term preparation kit before, and I want a quick refresh, I would follow this kit.
+Multiple resources and steps already summarize some topics from the Cracking the Coding Interview book I referred to above, with few modifications.
 
 **Video Kit:**
 If I have a little more time, I would go through [this playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK) first, at least once.
@@ -83,7 +100,7 @@ Keep these data structures, algorithms, and concepts in mind:
 1. Walk through your algorithm and know exactly what you are going to do before starting to code, think of needed variables and data structures for instance.
 
 1. Code! Make sure to have a:
-    1. (Consistent) code style: use descriptive variable names, and you may refer for them with abbreviations later.
+    1. (Consistent) code style: Use descriptive variable names, and you may refer to them with abbreviations later.
     1. Modular code: before coding, not after.
     
 1. **TEST**!
@@ -135,15 +152,15 @@ Keep these data structures, algorithms, and concepts in mind:
 **Clarifications:**
 * Case #1
     - An array will get any item by index in a constant `O(1)` time.
-    - A linked list need to traverse and count nodes till reaching the needed item and return it, so that it needs a linear `O(n)` time.
+    - A linked list needs to traverse and count nodes until it reaches the needed item and returns it so that it needs a linear `O(n)` time.
 
 * Case #2
     - An array will access the needed index in a constant `O(1)` time and add or delete it, but it needs a linear `O(n)` to shift **all** the old nodes to right in the case of adding and to left in the case of removing.
-    - A linked list need to traverse a **few** nodes (since we will add or delete from the start), add or delete the new node and update the pointers, so it needs a constant `O(1)` time.
+    - A linked list needs to traverse a **few** nodes (since we will add or delete from the start), add or delete the new node and update the pointers, so it needs a constant `O(1)` time.
     
 * Case #3
     - An array will access the needed index in a constant `O(1)` time and add or delete it, and since we are adding or deleting from the end, it needs a constant `O(1)` to shift the **few** old nodes to right in the case of adding and to left in the case of removing.
-    - A linked list need to traverse **almost all** nodes (since we will add or delete from the end), add or delete the new node and update the pointers, so it needs a linear `O(n)` time.
+    - A linked list needs to traverse **almost all** nodes (since we will add or delete from the end), add or delete the new node and update the pointers, so it needs a linear `O(n)` time.
     
 
 ---
@@ -183,9 +200,9 @@ Keep these data structures, algorithms, and concepts in mind:
 ## Trees
 
 ### Tree Traversals
-- Pre order: **root** --> left --> right
-- In order: left --> **root** --> right
-- Post order: left --> right --> **root**
+- Pre-order: **root** --> left --> right
+- In-order: left --> **root** --> right
+- Post-order: left --> right --> **root**
 
 ---
 
@@ -218,7 +235,7 @@ In any ***perfect binary tree***:
 ## Graphs
 
 - A graph organizes items in an interconnected network.
-- A graph consist of multiple nodes and edges between them.
+- A graph consists of multiple nodes and edges between them.
 
 ### Classifications
 A graph could be:
@@ -227,17 +244,17 @@ A graph could be:
 - Cyclic or Acyclic
     - A graph is cyclic if you can start from any node and come back to it in a closed path; acyclic otherwise.
 - Weighted or Unweighted
-    - The edge has a certain weight (importance / degree) in a weighted graph. All edges have the same weight in an unweighted graph.
+    - The edge has a certain weight (importance/degree) in a weighted graph. All edges have the same weight in an unweighted graph.
 
 ### Representations
 A graph could be represented with:
 - An edge list
     - A list of all the edges in the graph.
-    - Every edge represented by the 2 nodes it connects.
+    - Every edge is represented by the 2 nodes it connects.
     - An unconnected node (a node with no edges) will not be represented with this form.
 - An adjacency list
-    - A list where index represents the node, and the value at that index is a list of the node's neighbors.
-    - Another form of this representation is to use a map (a dictionary) where the key is the node, and the value is a list of neighbors.
+    - A list where the index represents the node, and the value at that index is a list of the node's neighbours.
+    - Another form of this representation is to use a map (a dictionary) where the key is the node, and the value is a list of neighbours.
 - An adjacency matrix
     - A matrix of `0`s and `1`s indicating whether a node `x` connects to node `y` where `0` means unconnected and `1` means connected.
 
@@ -246,7 +263,7 @@ A graph could be represented with:
 ## SOLID Design Principles
 
 ### Dependency Inversion
-- High level module should not depend on a low level module.
+- A high-level module should not depend on a low-level module.
 - Both should depend on abstraction.
 - Abstraction should not depend on details.
 - Details should depend on abstraction.
