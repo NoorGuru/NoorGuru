@@ -6,7 +6,7 @@ updates:
       interval: "weekly"
       time: "11:30"
       timezone: "UTC"
-    target-branch: main
+    target-branch: master
     reviewers:
       - mohnoor94
     labels:
