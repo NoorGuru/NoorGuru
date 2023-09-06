@@ -32,12 +32,18 @@ That's it, good luck!
 If you prefer to learn by practising, I would advise you to start with Hackerank Preparation Kits.
 
 ## Practice per Topic
+
 [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+
 **Recommended** if you are a beginner or you need a refresher on a certain topic.
 
 ## Practice on a Schedule
+
 [Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)
+
 **Recommended** if you have a scheduled interview, and you need to refresh your skills in different topics.
+
+
 
 - [3 Months Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
 - [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)
