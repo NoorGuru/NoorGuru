@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      time: "11:30"
+      timezone: "UTC"
+    target-branch: main
+    reviewers:
+      - mohnoor94
+    labels:
+      - Dependabot
